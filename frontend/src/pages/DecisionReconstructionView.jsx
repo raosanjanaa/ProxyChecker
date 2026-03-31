@@ -11,8 +11,8 @@ export function DecisionReconstructionView() {
     const fetchReconstruction = async () => {
       try {
         const [correctionRes, reconstructionRes] = await Promise.all([
-          axios.get('http://localhost:8000/api/bias-correction'),
-          axios.get('http://localhost:8000/api/reconstructed-decisions')
+          axios.get('/api/bias-correction'),
+          axios.get('/api/reconstructed-decisions')
         ]);
         
         setData({

@@ -28,7 +28,7 @@ export function UploadView() {
       const formData = new FormData();
       formData.append('file', file);
       
-      const res = await axios.post('http://localhost:8000/api/upload', formData);
+      const res = await axios.post('/api/upload', formData);
       navigate('/discovery', { state: { understanding: res.data.understanding } });
     } catch (err) {
       setError(err.response?.data?.detail || "System fault during initialization.");

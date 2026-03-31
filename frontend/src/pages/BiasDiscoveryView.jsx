@@ -30,7 +30,7 @@ export function BiasDiscoveryView() {
   useEffect(() => {
     const fetchLocalization = async () => {
       try {
-        const res = await axios.get('http://localhost:8000/api/bias-localization');
+        const res = await axios.get('/api/bias-localization');
         setData(res.data);
         setLoading(false);
       } catch (err) {

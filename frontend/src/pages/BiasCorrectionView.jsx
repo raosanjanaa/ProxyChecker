@@ -11,12 +11,12 @@ export function BiasCorrectionView() {
   useEffect(() => {
     const executeCorrection = async () => {
       try {
-        const res = await axios.get('http://localhost:8000/api/bias-correction');
-        const decisionRes = await axios.get('http://localhost:8000/api/reconstructed-decisions');
+        const res = await axios.get('/api/bias-correction');
+        const decisionRes = await axios.get('/api/reconstructed-decisions');
         setData({ ...res.data, decisions: decisionRes.data });
         
         // Fetch AI Explanation
-        const aiRes = await axios.get('http://localhost:8000/api/ai-explanation');
+        const aiRes = await axios.get('/api/ai-explanation');
         setAiExplanation(aiRes.data.explanation);
         
         setLoading(false);
@@ -29,11 +29,11 @@ export function BiasCorrectionView() {
   }, []);
 
   const handleDownloadCSV = () => {
-    window.open('http://localhost:8000/api/download-sanitized-csv', '_blank');
+    window.open('/api/download-sanitized-csv', '_blank');
   };
 
   const handleDownloadReport = () => {
-    window.open('http://localhost:8000/api/download-audit-report', '_blank');
+    window.open('/api/download-audit-report', '_blank');
   };
 
   if (loading) return (
