@@ -1,0 +1,1001 @@
+candidate_id,name,gender,location,zipcode,education,extracurricular_activities,years_experience,skill_score,interview_score,selected
+CAN0001,Precious Jones,Female,Rural,ZIP93810,Bachelors,"General Member of Student Body, Volunteer",6.5,91.0,66.9,0
+CAN0002,Sarah Smith,Female,Urban,ZIP24592,Masters,"General Member of Student Body, Volunteer",4.6,83.9,73.3,0
+CAN0003,Trevon Williams,Male,Rural,ZIP13278,Bachelors,"President of Student Black Council, Math Tutor",6.9,70.9,65.5,0
+CAN0004,Barbara Rodriguez,Female,Suburban,ZIP46048,Masters,"General Member of Student Body, Volunteer",9.6,60.3,71.3,0
+CAN0005,Jamal Davis,Male,Urban,ZIP42098,Masters,"General Member of Student Body, Volunteer",4.3,80.5,52.3,0
+CAN0006,Ebony Jones,Male,Rural,ZIP39256,Bachelors,"Lacrosse Team Leader, Debate Club",4.3,75.9,77.6,0
+CAN0007,David Martinez,Male,Urban,ZIP28289,Masters,"General Member of Student Body, Volunteer",9.7,83.4,75.0,1
+CAN0008,Linda Davis,Male,Rural,ZIP23434,Bachelors,"President of Student Black Council, Math Tutor",7.3,79.5,65.2,0
+CAN0009,Robert Davis,Female,Urban,ZIP98696,Masters,"Volleyball Captain, STEM Club",3.6,85.7,82.9,0
+CAN0010,Patricia Miller,Male,Rural,ZIP81482,Bachelors,"President of Student Black Council, Math Tutor",6.6,62.0,86.3,0
+CAN0011,Mary Garcia,Male,Urban,ZIP21395,Masters,"Lacrosse Team Leader, Debate Club",3.6,89.8,55.7,0
+CAN0012,Malik Johnson,Female,Suburban,ZIP87397,Bachelors,"General Member of Student Body, Volunteer",3.6,73.0,65.8,0
+CAN0013,Nia Williams,Male,Suburban,ZIP65302,Bachelors,"Lacrosse Team Leader, Debate Club",5.7,100.0,65.8,1
+CAN0014,Mary Miller,Male,Rural,ZIP14165,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,59.7,63.7,0
+CAN0015,DeShawn Davis,Male,Rural,ZIP13905,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,96.0,85.0,0
+CAN0016,Thomas Miller,Female,Rural,ZIP22280,High School,"President of Student Black Council, Math Tutor",3.3,73.0,72.7,0
+CAN0017,Precious Rodriguez,Female,Rural,ZIP38657,Bachelors,"Volleyball Captain, STEM Club",2.0,60.2,71.8,0
+CAN0018,John Davis,Male,Urban,ZIP40495,Masters,"President of Student Black Council, Math Tutor",5.9,62.7,51.0,0
+CAN0019,Robert Garcia,Male,Urban,ZIP76237,Bachelors,"Lacrosse Team Leader, Debate Club",2.3,65.2,82.6,0
+CAN0020,Joseph Garcia,Male,Urban,ZIP88907,Bachelors,"Lacrosse Team Leader, Debate Club",0.8,76.4,60.1,0
+CAN0021,Michael Miller,Female,Urban,ZIP13478,Bachelors,"Volleyball Captain, STEM Club",9.4,77.8,75.7,1
+CAN0022,Nia Rodriguez,Male,Urban,ZIP83563,Masters,"Lacrosse Team Leader, Debate Club",4.3,61.4,78.3,0
+CAN0023,Precious Smith,Male,Suburban,ZIP36062,Bachelors,"General Member of Student Body, Volunteer",5.2,69.6,91.3,1
+CAN0024,Malik Rodriguez,Male,Urban,ZIP95181,Masters,"General Member of Student Body, Volunteer",0.7,100.0,59.3,0
+CAN0025,Elizabeth Miller,Male,Suburban,ZIP81426,Bachelors,"Lacrosse Team Leader, Debate Club",3.4,95.9,38.8,0
+CAN0026,John Brown,Male,Urban,ZIP64987,Bachelors,"Lacrosse Team Leader, Debate Club",5.3,76.5,77.2,1
+CAN0027,Susan Garcia,Female,Urban,ZIP38893,Masters,"Volleyball Captain, STEM Club",1.5,70.6,96.6,0
+CAN0028,Karen Davis,Male,Suburban,ZIP68878,Masters,"General Member of Student Body, Volunteer",6.1,71.8,89.9,1
+CAN0029,Jamal Davis,Male,Suburban,ZIP87236,Bachelors,"General Member of Student Body, Volunteer",3.2,79.2,77.5,1
+CAN0030,Trevon Smith,Female,Suburban,ZIP46463,Masters,"General Member of Student Body, Volunteer",4.1,54.7,69.1,0
+CAN0031,Richard Jones,Female,Suburban,ZIP10851,Bachelors,"General Member of Student Body, Volunteer",3.2,66.1,84.7,0
+CAN0032,Jessica Williams,Male,Urban,ZIP30926,Masters,"General Member of Student Body, Volunteer",10.6,45.0,63.3,0
+CAN0033,Ebony Jones,Male,Suburban,ZIP65392,Masters,"Lacrosse Team Leader, Debate Club",5.0,76.0,80.7,1
+CAN0034,Elizabeth Davis,Male,Urban,ZIP54597,Masters,"Lacrosse Team Leader, Debate Club",1.8,79.7,81.1,0
+CAN0035,Michael Smith,Female,Urban,ZIP46421,Bachelors,"General Member of Student Body, Volunteer",7.5,62.8,87.7,0
+CAN0036,Jamal Martinez,Male,Urban,ZIP30379,Bachelors,"General Member of Student Body, Volunteer",1.3,93.6,100.0,1
+CAN0037,Aaliyah Brown,Female,Urban,ZIP38221,Masters,"General Member of Student Body, Volunteer",5.6,51.6,79.7,0
+CAN0038,DeShawn Williams,Female,Urban,ZIP54118,Masters,"Volleyball Captain, STEM Club",0.0,48.0,68.9,0
+CAN0039,Thomas Rodriguez,Male,Rural,ZIP23396,High School,"Lacrosse Team Leader, Debate Club",1.0,73.4,74.7,0
+CAN0040,James Rodriguez,Male,Rural,ZIP22156,High School,"President of Student Black Council, Math Tutor",5.6,85.7,53.8,0
+CAN0041,Linda Johnson,Male,Urban,ZIP59797,Masters,"General Member of Student Body, Volunteer",7.2,95.3,66.7,1
+CAN0042,Charles Johnson,Male,Urban,ZIP22676,Bachelors,"Lacrosse Team Leader, Debate Club",5.5,63.1,70.1,0
+CAN0043,Elizabeth Johnson,Male,Urban,ZIP57052,Masters,"Lacrosse Team Leader, Debate Club",4.7,86.2,68.7,1
+CAN0044,Jamal Williams,Female,Urban,ZIP55082,Bachelors,"Volleyball Captain, STEM Club",4.1,69.4,76.8,0
+CAN0045,Barbara Jones,Female,Rural,ZIP89131,Bachelors,"Volleyball Captain, STEM Club",0.6,67.4,65.1,0
+CAN0046,Susan Jones,Male,Urban,ZIP44671,Masters,"Lacrosse Team Leader, Debate Club",2.8,83.3,88.5,1
+CAN0047,Linda Davis,Female,Suburban,ZIP15695,Masters,"General Member of Student Body, Volunteer",3.6,79.8,75.0,0
+CAN0048,Barbara Brown,Male,Urban,ZIP70217,Bachelors,"President of Student Black Council, Math Tutor",8.2,46.4,74.9,0
+CAN0049,Elizabeth Rodriguez,Male,Rural,ZIP80284,Bachelors,"Lacrosse Team Leader, Debate Club",6.0,92.1,71.1,1
+CAN0050,William Miller,Male,Urban,ZIP26361,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,90.7,76.9,0
+CAN0051,Richard Martinez,Female,Suburban,ZIP59615,Bachelors,"Volleyball Captain, STEM Club",6.0,60.6,84.9,0
+CAN0052,Susan Williams,Female,Urban,ZIP20328,Masters,"Volleyball Captain, STEM Club",3.8,75.9,64.6,0
+CAN0053,Nia Johnson,Female,Suburban,ZIP82357,Masters,"General Member of Student Body, Volunteer",3.0,77.4,67.1,0
+CAN0054,Joseph Miller,Male,Urban,ZIP48427,Masters,"General Member of Student Body, Volunteer",6.8,73.9,71.4,1
+CAN0055,Mary Rodriguez,Male,Urban,ZIP92397,Masters,"General Member of Student Body, Volunteer",8.1,61.7,58.8,0
+CAN0056,Joseph Smith,Male,Rural,ZIP91070,High School,"President of Student Black Council, Math Tutor",7.8,59.9,65.2,0
+CAN0057,Thomas Jones,Male,Rural,ZIP57400,Bachelors,"President of Student Black Council, Math Tutor",2.5,69.6,69.3,0
+CAN0058,Precious Martinez,Female,Rural,ZIP85674,Bachelors,"Volleyball Captain, STEM Club",4.1,87.6,85.5,0
+CAN0059,Sarah Davis,Female,Suburban,ZIP35203,Bachelors,"General Member of Student Body, Volunteer",6.0,78.2,78.2,0
+CAN0060,Nia Williams,Female,Rural,ZIP19116,Bachelors,"Volleyball Captain, STEM Club",7.9,64.4,77.3,0
+CAN0061,Elizabeth Rodriguez,Male,Urban,ZIP16006,Bachelors,"General Member of Student Body, Volunteer",3.6,81.6,85.2,1
+CAN0062,Barbara Garcia,Male,Urban,ZIP96673,Masters,"Lacrosse Team Leader, Debate Club",4.4,27.3,73.4,0
+CAN0063,Mary Rodriguez,Male,Urban,ZIP39871,Bachelors,"General Member of Student Body, Volunteer",1.7,87.2,79.7,1
+CAN0064,Trevon Rodriguez,Male,Suburban,ZIP47930,Bachelors,"General Member of Student Body, Volunteer",1.4,43.9,73.8,0
+CAN0065,Jennifer Davis,Male,Urban,ZIP20458,Bachelors,"General Member of Student Body, Volunteer",7.4,64.6,78.2,1
+CAN0066,Ebony Garcia,Female,Urban,ZIP40512,Masters,"General Member of Student Body, Volunteer",9.1,53.2,68.0,0
+CAN0067,Nia Brown,Female,Suburban,ZIP23238,Bachelors,"General Member of Student Body, Volunteer",4.8,50.6,45.7,0
+CAN0068,DeShawn Brown,Male,Rural,ZIP59823,Bachelors,"General Member of Student Body, Volunteer",8.0,87.4,73.4,1
+CAN0069,Sarah Miller,Male,Urban,ZIP46434,Bachelors,"President of Student Black Council, Math Tutor",6.1,63.0,92.1,1
+CAN0070,Charles Miller,Male,Urban,ZIP69429,Masters,"Lacrosse Team Leader, Debate Club",3.1,75.2,86.1,1
+CAN0071,John Garcia,Male,Urban,ZIP93320,Masters,"General Member of Student Body, Volunteer",6.1,69.3,86.6,1
+CAN0072,Tyrone Davis,Female,Urban,ZIP57819,Bachelors,"General Member of Student Body, Volunteer",9.6,77.2,89.8,1
+CAN0073,DeShawn Miller,Male,Urban,ZIP31319,Bachelors,"General Member of Student Body, Volunteer",4.9,71.2,76.1,0
+CAN0074,Jennifer Williams,Male,Suburban,ZIP58520,Bachelors,"General Member of Student Body, Volunteer",9.7,50.8,77.4,0
+CAN0075,Barbara Smith,Male,Suburban,ZIP56566,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,84.9,67.6,0
+CAN0076,William Rodriguez,Female,Suburban,ZIP37460,Bachelors,"General Member of Student Body, Volunteer",7.5,62.6,71.2,0
+CAN0077,Sarah Garcia,Male,Urban,ZIP97841,Bachelors,"Lacrosse Team Leader, Debate Club",5.3,46.7,82.4,0
+CAN0078,Nia Johnson,Male,Rural,ZIP44993,Bachelors,"Lacrosse Team Leader, Debate Club",4.1,63.6,89.4,0
+CAN0079,Nia Davis,Male,Urban,ZIP99593,Masters,"General Member of Student Body, Volunteer",5.3,92.5,73.3,1
+CAN0080,Michael Rodriguez,Female,Urban,ZIP94939,Masters,"Volleyball Captain, STEM Club",0.0,82.8,69.6,0
+CAN0081,Ebony Davis,Female,Rural,ZIP19358,Bachelors,"General Member of Student Body, Volunteer",4.3,64.8,75.0,0
+CAN0082,James Williams,Male,Urban,ZIP89840,Masters,"General Member of Student Body, Volunteer",6.1,64.8,82.2,1
+CAN0083,Linda Williams,Female,Urban,ZIP93227,Masters,"Volleyball Captain, STEM Club",9.4,65.2,57.7,0
+CAN0084,Robert Davis,Female,Rural,ZIP32431,Bachelors,"Volleyball Captain, STEM Club",3.4,100.0,47.4,0
+CAN0085,Aaliyah Jones,Female,Urban,ZIP80010,Masters,"Volleyball Captain, STEM Club",2.6,75.7,68.4,0
+CAN0086,Mary Martinez,Female,Suburban,ZIP42087,Bachelors,"President of Student Black Council, Math Tutor",3.5,76.5,60.4,0
+CAN0087,DeShawn Miller,Female,Urban,ZIP31417,Bachelors,"General Member of Student Body, Volunteer",7.7,85.5,68.9,0
+CAN0088,Jamal Johnson,Male,Suburban,ZIP70589,Bachelors,"Lacrosse Team Leader, Debate Club",6.0,73.6,73.2,1
+CAN0089,Nia Garcia,Female,Urban,ZIP59735,Masters,"Volleyball Captain, STEM Club",3.4,66.1,69.6,0
+CAN0090,Nia Rodriguez,Male,Urban,ZIP45382,Masters,"General Member of Student Body, Volunteer",6.5,67.1,92.4,1
+CAN0091,Jennifer Garcia,Female,Suburban,ZIP93886,Bachelors,"General Member of Student Body, Volunteer",5.3,68.9,78.9,0
+CAN0092,Jamal Davis,Male,Urban,ZIP83000,Masters,"Lacrosse Team Leader, Debate Club",7.9,69.4,78.6,1
+CAN0093,Nia Rodriguez,Female,Urban,ZIP38785,Masters,"General Member of Student Body, Volunteer",2.9,80.9,82.5,0
+CAN0094,John Martinez,Female,Urban,ZIP99733,Bachelors,"Volleyball Captain, STEM Club",4.0,70.8,61.3,0
+CAN0095,Robert Brown,Male,Urban,ZIP52504,Masters,"Lacrosse Team Leader, Debate Club",3.8,81.0,87.5,1
+CAN0096,Jamal Jones,Female,Urban,ZIP17331,Bachelors,"Volleyball Captain, STEM Club",0.6,68.8,74.1,0
+CAN0097,Charles Johnson,Male,Urban,ZIP40021,Masters,"General Member of Student Body, Volunteer",5.9,71.2,83.0,1
+CAN0098,Linda Johnson,Female,Rural,ZIP14207,Bachelors,"Volleyball Captain, STEM Club",5.8,40.0,62.1,0
+CAN0099,Trevon Johnson,Male,Urban,ZIP51347,Masters,"Lacrosse Team Leader, Debate Club",5.0,83.7,56.4,0
+CAN0100,Elizabeth Williams,Male,Urban,ZIP62581,Bachelors,"Lacrosse Team Leader, Debate Club",4.3,75.2,84.8,1
+CAN0101,DeShawn Jones,Female,Urban,ZIP45093,Masters,"Volleyball Captain, STEM Club",0.8,85.0,79.5,0
+CAN0102,Deja Smith,Male,Urban,ZIP18675,Bachelors,"Lacrosse Team Leader, Debate Club",3.7,26.6,64.2,0
+CAN0103,John Garcia,Female,Rural,ZIP37653,Bachelors,"General Member of Student Body, Volunteer",4.0,100.0,64.6,0
+CAN0104,Aaliyah Smith,Male,Urban,ZIP84341,Bachelors,"Lacrosse Team Leader, Debate Club",2.6,67.9,88.5,0
+CAN0105,Thomas Garcia,Male,Rural,ZIP51245,Bachelors,"General Member of Student Body, Volunteer",4.5,86.6,60.7,0
+CAN0106,Patricia Miller,Male,Urban,ZIP37869,Masters,"General Member of Student Body, Volunteer",6.2,54.4,94.7,0
+CAN0107,William Brown,Male,Suburban,ZIP95909,Bachelors,"Lacrosse Team Leader, Debate Club",10.7,79.2,64.2,1
+CAN0108,Susan Miller,Male,Suburban,ZIP75435,Bachelors,"Lacrosse Team Leader, Debate Club",5.5,54.2,82.7,0
+CAN0109,Sarah Williams,Male,Rural,ZIP61856,Bachelors,"General Member of Student Body, Volunteer",5.8,60.6,71.1,0
+CAN0110,David Williams,Male,Suburban,ZIP94259,Masters,"Lacrosse Team Leader, Debate Club",4.8,98.7,82.2,1
+CAN0111,Robert Martinez,Male,Suburban,ZIP70142,Bachelors,"General Member of Student Body, Volunteer",0.0,67.1,68.5,0
+CAN0112,Nia Miller,Female,Urban,ZIP28726,Bachelors,"President of Student Black Council, Math Tutor",4.9,73.3,73.0,0
+CAN0113,Karen Brown,Female,Urban,ZIP44718,Bachelors,"Volleyball Captain, STEM Club",5.2,83.1,75.5,0
+CAN0114,Barbara Martinez,Male,Rural,ZIP28301,High School,"General Member of Student Body, Volunteer",12.4,77.4,63.0,1
+CAN0115,William Brown,Female,Urban,ZIP42325,Bachelors,"General Member of Student Body, Volunteer",4.4,72.3,83.9,0
+CAN0116,Elizabeth Jones,Male,Urban,ZIP83579,Masters,"Lacrosse Team Leader, Debate Club",5.9,75.5,68.8,1
+CAN0117,Elizabeth Jones,Female,Suburban,ZIP80644,Bachelors,"President of Student Black Council, Math Tutor",4.9,100.0,72.3,1
+CAN0118,Malik Smith,Female,Urban,ZIP44438,Bachelors,"Volleyball Captain, STEM Club",1.5,69.1,63.1,0
+CAN0119,Deja Davis,Female,Rural,ZIP86622,Bachelors,"Volleyball Captain, STEM Club",8.4,73.0,44.3,0
+CAN0120,Deja Jones,Male,Suburban,ZIP66155,Bachelors,"Lacrosse Team Leader, Debate Club",7.3,85.8,72.7,1
+CAN0121,Malik Rodriguez,Female,Suburban,ZIP86484,Bachelors,"General Member of Student Body, Volunteer",7.4,86.6,100.0,1
+CAN0122,David Johnson,Male,Rural,ZIP62350,Bachelors,"Lacrosse Team Leader, Debate Club",2.3,87.8,84.4,0
+CAN0123,Elizabeth Garcia,Female,Urban,ZIP57447,Bachelors,"General Member of Student Body, Volunteer",9.2,79.6,74.8,1
+CAN0124,Sarah Jones,Male,Urban,ZIP38746,Masters,"General Member of Student Body, Volunteer",0.8,52.9,71.8,0
+CAN0125,Jamal Miller,Female,Urban,ZIP28131,Masters,"General Member of Student Body, Volunteer",6.8,94.5,75.3,1
+CAN0126,DeShawn Jones,Female,Urban,ZIP76784,Bachelors,"Volleyball Captain, STEM Club",11.6,52.8,81.6,0
+CAN0127,Elizabeth Jones,Female,Suburban,ZIP74686,Bachelors,"Volleyball Captain, STEM Club",2.0,74.5,60.8,0
+CAN0128,Richard Miller,Male,Rural,ZIP21915,Bachelors,"General Member of Student Body, Volunteer",3.3,58.7,88.4,0
+CAN0129,Nia Davis,Female,Urban,ZIP16175,Masters,"General Member of Student Body, Volunteer",5.3,69.0,83.6,0
+CAN0130,Michael Brown,Male,Urban,ZIP24371,Masters,"President of Student Black Council, Math Tutor",3.5,74.9,83.6,1
+CAN0131,Jennifer Martinez,Female,Rural,ZIP30033,Bachelors,"Volleyball Captain, STEM Club",0.3,74.8,80.3,0
+CAN0132,Patricia Martinez,Male,Urban,ZIP92240,Masters,"Lacrosse Team Leader, Debate Club",5.2,76.3,75.2,1
+CAN0133,Thomas Jones,Male,Urban,ZIP30969,Masters,"President of Student Black Council, Math Tutor",1.8,94.2,83.1,1
+CAN0134,James Miller,Male,Urban,ZIP99192,Masters,"Lacrosse Team Leader, Debate Club",6.4,76.8,82.1,1
+CAN0135,Joseph Smith,Male,Rural,ZIP65333,Bachelors,"General Member of Student Body, Volunteer",2.2,66.3,70.8,0
+CAN0136,Sarah Smith,Male,Suburban,ZIP88172,Bachelors,"General Member of Student Body, Volunteer",9.6,84.5,68.1,1
+CAN0137,Ebony Martinez,Male,Suburban,ZIP18326,Bachelors,"General Member of Student Body, Volunteer",2.7,87.8,76.2,1
+CAN0138,Tyrone Davis,Male,Rural,ZIP60432,Bachelors,"General Member of Student Body, Volunteer",4.0,51.6,93.6,0
+CAN0139,Precious Jones,Female,Urban,ZIP60019,Bachelors,"General Member of Student Body, Volunteer",7.4,79.0,60.1,0
+CAN0140,Trevon Brown,Female,Urban,ZIP88104,Masters,"Volleyball Captain, STEM Club",1.3,80.5,57.4,0
+CAN0141,Karen Garcia,Male,Rural,ZIP71348,Bachelors,"Lacrosse Team Leader, Debate Club",5.7,65.5,77.0,0
+CAN0142,Charles Brown,Male,Urban,ZIP79352,Masters,"General Member of Student Body, Volunteer",8.9,90.6,75.6,1
+CAN0143,Karen Jones,Male,Suburban,ZIP42953,Bachelors,"General Member of Student Body, Volunteer",0.2,67.7,77.1,0
+CAN0144,Malik Williams,Male,Rural,ZIP82512,High School,"President of Student Black Council, Math Tutor",5.6,71.9,77.9,0
+CAN0145,Jamal Johnson,Female,Suburban,ZIP11504,Masters,"Volleyball Captain, STEM Club",5.8,67.4,72.3,0
+CAN0146,Deja Smith,Female,Suburban,ZIP99166,Bachelors,"Volleyball Captain, STEM Club",7.3,70.2,92.9,0
+CAN0147,Thomas Davis,Male,Rural,ZIP25014,Bachelors,"Lacrosse Team Leader, Debate Club",1.3,53.6,55.8,0
+CAN0148,John Martinez,Male,Rural,ZIP99353,Bachelors,"General Member of Student Body, Volunteer",1.0,48.4,65.1,0
+CAN0149,Patricia Williams,Male,Urban,ZIP80381,Masters,"General Member of Student Body, Volunteer",6.6,93.9,73.8,1
+CAN0150,Robert Jones,Female,Urban,ZIP44973,Masters,"General Member of Student Body, Volunteer",5.9,57.3,55.3,0
+CAN0151,Mary Miller,Female,Urban,ZIP94012,Masters,"Volleyball Captain, STEM Club",5.8,55.1,72.9,0
+CAN0152,David Brown,Male,Suburban,ZIP54587,Bachelors,"General Member of Student Body, Volunteer",6.0,37.7,94.9,0
+CAN0153,William Rodriguez,Male,Urban,ZIP24621,Masters,"Lacrosse Team Leader, Debate Club",3.0,60.4,75.3,0
+CAN0154,Deja Garcia,Female,Suburban,ZIP48469,Bachelors,"Volleyball Captain, STEM Club",5.7,50.2,77.8,0
+CAN0155,Susan Rodriguez,Female,Urban,ZIP66985,Bachelors,"Volleyball Captain, STEM Club",5.9,94.6,59.9,0
+CAN0156,Ebony Jones,Male,Suburban,ZIP30730,Bachelors,"Lacrosse Team Leader, Debate Club",2.9,85.1,67.6,0
+CAN0157,Precious Williams,Male,Urban,ZIP69470,Bachelors,"Lacrosse Team Leader, Debate Club",10.6,59.7,70.5,1
+CAN0158,Joseph Davis,Male,Suburban,ZIP10425,Masters,"President of Student Black Council, Math Tutor",6.4,100.0,71.2,1
+CAN0159,Aaliyah Jones,Male,Suburban,ZIP44522,Bachelors,"President of Student Black Council, Math Tutor",1.4,84.7,90.4,1
+CAN0160,Tyrone Garcia,Male,Urban,ZIP75612,Masters,"Lacrosse Team Leader, Debate Club",7.0,65.1,81.7,1
+CAN0161,Aaliyah Johnson,Male,Urban,ZIP33416,Masters,"President of Student Black Council, Math Tutor",2.1,32.5,61.7,0
+CAN0162,Elizabeth Johnson,Male,Suburban,ZIP76542,Bachelors,"General Member of Student Body, Volunteer",7.4,100.0,78.0,1
+CAN0163,William Brown,Male,Urban,ZIP23947,Masters,"General Member of Student Body, Volunteer",8.5,49.2,81.0,0
+CAN0164,Nia Miller,Female,Urban,ZIP91959,Bachelors,"General Member of Student Body, Volunteer",2.5,45.3,88.7,0
+CAN0165,Nia Rodriguez,Male,Rural,ZIP49117,Bachelors,"General Member of Student Body, Volunteer",7.9,85.3,94.0,1
+CAN0166,Patricia Johnson,Male,Suburban,ZIP93748,Bachelors,"Lacrosse Team Leader, Debate Club",6.2,100.0,62.8,1
+CAN0167,Aaliyah Miller,Male,Rural,ZIP76540,Bachelors,"President of Student Black Council, Math Tutor",7.5,90.8,65.3,1
+CAN0168,James Jones,Male,Urban,ZIP89818,Masters,"Lacrosse Team Leader, Debate Club",10.7,78.5,59.9,1
+CAN0169,Jessica Johnson,Female,Urban,ZIP36071,Bachelors,"Volleyball Captain, STEM Club",4.3,78.9,72.2,0
+CAN0170,Elizabeth Garcia,Male,Rural,ZIP30032,Bachelors,"Lacrosse Team Leader, Debate Club",2.7,82.8,80.6,0
+CAN0171,Malik Jones,Male,Suburban,ZIP59009,Masters,"Lacrosse Team Leader, Debate Club",2.3,81.4,86.8,1
+CAN0172,Sarah Miller,Female,Suburban,ZIP31174,Bachelors,"Volleyball Captain, STEM Club",2.6,74.2,74.1,0
+CAN0173,Precious Garcia,Male,Urban,ZIP80697,Bachelors,"Lacrosse Team Leader, Debate Club",4.8,71.6,71.2,0
+CAN0174,Michael Brown,Female,Urban,ZIP79514,Masters,"Volleyball Captain, STEM Club",6.0,69.1,76.8,0
+CAN0175,Barbara Smith,Male,Urban,ZIP10074,Masters,"General Member of Student Body, Volunteer",5.8,58.7,65.0,0
+CAN0176,Karen Rodriguez,Male,Urban,ZIP88504,Bachelors,"General Member of Student Body, Volunteer",7.5,65.8,100.0,1
+CAN0177,Mary Martinez,Male,Urban,ZIP52487,Masters,"Lacrosse Team Leader, Debate Club",5.0,44.6,55.7,0
+CAN0178,Charles Johnson,Male,Urban,ZIP74042,Bachelors,"Lacrosse Team Leader, Debate Club",9.4,68.5,77.2,1
+CAN0179,Jamal Davis,Female,Rural,ZIP12552,Bachelors,"Volleyball Captain, STEM Club",4.2,55.2,99.3,0
+CAN0180,Ebony Jones,Female,Urban,ZIP24662,Bachelors,"Volleyball Captain, STEM Club",13.2,53.4,75.1,0
+CAN0181,Jamal Miller,Male,Suburban,ZIP57576,Bachelors,"General Member of Student Body, Volunteer",6.9,72.7,72.7,1
+CAN0182,Michael Williams,Male,Rural,ZIP50306,Bachelors,"Lacrosse Team Leader, Debate Club",2.4,90.9,70.7,0
+CAN0183,John Smith,Female,Suburban,ZIP41385,Bachelors,"Volleyball Captain, STEM Club",1.8,83.8,72.8,0
+CAN0184,Thomas Davis,Female,Urban,ZIP17592,Bachelors,"General Member of Student Body, Volunteer",6.4,46.4,91.5,0
+CAN0185,Michael Johnson,Male,Suburban,ZIP41571,Bachelors,"General Member of Student Body, Volunteer",4.3,55.2,48.5,0
+CAN0186,Charles Rodriguez,Male,Suburban,ZIP84364,Bachelors,"Lacrosse Team Leader, Debate Club",7.1,84.1,93.4,1
+CAN0187,William Miller,Male,Suburban,ZIP20322,Bachelors,"Lacrosse Team Leader, Debate Club",6.4,55.3,57.9,0
+CAN0188,Elizabeth Garcia,Female,Suburban,ZIP21226,Bachelors,"General Member of Student Body, Volunteer",4.8,66.6,71.8,0
+CAN0189,Malik Rodriguez,Male,Rural,ZIP73699,Bachelors,"General Member of Student Body, Volunteer",2.5,78.3,69.8,0
+CAN0190,Linda Martinez,Male,Suburban,ZIP19071,Masters,"General Member of Student Body, Volunteer",0.5,55.5,82.1,0
+CAN0191,Tyrone Williams,Female,Urban,ZIP79822,Masters,"General Member of Student Body, Volunteer",3.7,71.6,55.8,0
+CAN0192,Deja Miller,Male,Suburban,ZIP26483,Masters,"General Member of Student Body, Volunteer",7.6,50.0,80.5,0
+CAN0193,Jamal Johnson,Male,Urban,ZIP26828,Bachelors,"Lacrosse Team Leader, Debate Club",5.6,61.0,99.3,1
+CAN0194,Precious Davis,Male,Rural,ZIP96474,High School,"Lacrosse Team Leader, Debate Club",1.3,74.8,58.6,0
+CAN0195,Karen Miller,Male,Urban,ZIP72296,Bachelors,"Lacrosse Team Leader, Debate Club",5.5,46.1,77.3,0
+CAN0196,Joseph Smith,Male,Urban,ZIP82063,Bachelors,"President of Student Black Council, Math Tutor",6.2,76.6,67.1,1
+CAN0197,DeShawn Garcia,Male,Rural,ZIP31643,High School,"General Member of Student Body, Volunteer",2.3,69.7,80.1,0
+CAN0198,Richard Davis,Male,Suburban,ZIP44741,Bachelors,"General Member of Student Body, Volunteer",5.5,78.3,75.2,1
+CAN0199,Elizabeth Brown,Male,Urban,ZIP79163,Masters,"General Member of Student Body, Volunteer",5.2,73.4,67.3,0
+CAN0200,Nia Garcia,Female,Urban,ZIP89507,Bachelors,"General Member of Student Body, Volunteer",1.6,90.5,80.9,0
+CAN0201,Michael Garcia,Female,Rural,ZIP65461,High School,"Volleyball Captain, STEM Club",6.1,71.9,96.7,0
+CAN0202,Jessica Garcia,Male,Urban,ZIP37760,Masters,"Lacrosse Team Leader, Debate Club",6.7,63.6,72.7,0
+CAN0203,John Miller,Male,Rural,ZIP80686,Bachelors,"General Member of Student Body, Volunteer",8.2,71.8,83.6,1
+CAN0204,Joseph Brown,Male,Urban,ZIP36365,Bachelors,"Lacrosse Team Leader, Debate Club",8.2,78.1,59.5,1
+CAN0205,Michael Davis,Male,Suburban,ZIP50857,Bachelors,"President of Student Black Council, Math Tutor",0.9,70.7,63.5,0
+CAN0206,Robert Brown,Male,Rural,ZIP62296,High School,"Lacrosse Team Leader, Debate Club",2.2,70.6,80.7,0
+CAN0207,Jamal Martinez,Female,Urban,ZIP98039,Masters,"President of Student Black Council, Math Tutor",6.5,59.5,92.8,0
+CAN0208,James Smith,Male,Urban,ZIP95180,Bachelors,"Lacrosse Team Leader, Debate Club",6.5,60.1,79.3,0
+CAN0209,Aaliyah Garcia,Male,Urban,ZIP58944,Bachelors,"Lacrosse Team Leader, Debate Club",6.5,49.0,71.2,0
+CAN0210,Charles Williams,Male,Suburban,ZIP67422,Bachelors,"Lacrosse Team Leader, Debate Club",16.6,96.2,75.0,1
+CAN0211,Aaliyah Martinez,Female,Suburban,ZIP77839,Bachelors,"General Member of Student Body, Volunteer",6.7,51.3,60.0,0
+CAN0212,Richard Johnson,Male,Suburban,ZIP69177,Bachelors,"Lacrosse Team Leader, Debate Club",8.4,59.6,82.3,1
+CAN0213,Precious Rodriguez,Female,Urban,ZIP25860,Bachelors,"General Member of Student Body, Volunteer",7.9,59.2,85.6,0
+CAN0214,Richard Martinez,Male,Urban,ZIP42493,Masters,"President of Student Black Council, Math Tutor",7.0,83.4,69.6,1
+CAN0215,Richard Brown,Female,Urban,ZIP39451,Bachelors,"General Member of Student Body, Volunteer",4.1,65.6,69.4,0
+CAN0216,Mary Williams,Female,Urban,ZIP18392,Bachelors,"Volleyball Captain, STEM Club",7.3,88.7,78.2,1
+CAN0217,Aaliyah Martinez,Male,Suburban,ZIP54313,Bachelors,"Lacrosse Team Leader, Debate Club",2.7,59.9,69.8,0
+CAN0218,James Jones,Male,Rural,ZIP12757,Bachelors,"Lacrosse Team Leader, Debate Club",4.3,74.2,74.2,0
+CAN0219,Nia Williams,Male,Suburban,ZIP87110,Masters,"Lacrosse Team Leader, Debate Club",3.5,57.5,100.0,0
+CAN0220,William Rodriguez,Male,Urban,ZIP82603,Bachelors,"Lacrosse Team Leader, Debate Club",5.2,100.0,72.0,1
+CAN0221,Joseph Williams,Female,Rural,ZIP40161,Bachelors,"Volleyball Captain, STEM Club",11.9,52.2,70.7,0
+CAN0222,Michael Smith,Female,Suburban,ZIP87128,Bachelors,"President of Student Black Council, Math Tutor",0.0,74.6,67.2,0
+CAN0223,William Smith,Female,Rural,ZIP38864,Bachelors,"General Member of Student Body, Volunteer",7.1,79.5,83.9,0
+CAN0224,Patricia Brown,Female,Suburban,ZIP10942,Bachelors,"Volleyball Captain, STEM Club",0.2,76.2,72.8,0
+CAN0225,Sarah Garcia,Male,Urban,ZIP19305,Masters,"Lacrosse Team Leader, Debate Club",3.6,67.2,67.2,0
+CAN0226,James Williams,Male,Urban,ZIP92719,Masters,"Lacrosse Team Leader, Debate Club",8.3,68.1,90.9,1
+CAN0227,Joseph Smith,Female,Suburban,ZIP17716,Bachelors,"Volleyball Captain, STEM Club",5.2,70.7,92.0,0
+CAN0228,William Miller,Male,Urban,ZIP40007,Masters,"General Member of Student Body, Volunteer",1.8,67.8,67.8,0
+CAN0229,Susan Johnson,Female,Urban,ZIP18834,Masters,"Volleyball Captain, STEM Club",2.9,84.5,52.6,0
+CAN0230,Tyrone Johnson,Male,Suburban,ZIP14117,Masters,"General Member of Student Body, Volunteer",7.0,100.0,87.1,1
+CAN0231,Barbara Davis,Male,Suburban,ZIP53309,Bachelors,"General Member of Student Body, Volunteer",2.8,61.6,66.8,0
+CAN0232,Trevon Garcia,Female,Suburban,ZIP19287,Masters,"Volleyball Captain, STEM Club",5.6,49.5,84.5,0
+CAN0233,Susan Martinez,Male,Urban,ZIP77391,Masters,"Lacrosse Team Leader, Debate Club",5.1,68.7,51.4,0
+CAN0234,Michael Davis,Female,Urban,ZIP41195,Masters,"Volleyball Captain, STEM Club",3.0,100.0,85.7,1
+CAN0235,Susan Brown,Female,Suburban,ZIP46500,Bachelors,"Volleyball Captain, STEM Club",11.4,57.9,60.5,0
+CAN0236,Karen Smith,Female,Rural,ZIP97684,Bachelors,"General Member of Student Body, Volunteer",6.9,94.6,83.8,1
+CAN0237,Tyrone Rodriguez,Female,Suburban,ZIP73624,Bachelors,"President of Student Black Council, Math Tutor",0.0,95.2,75.2,0
+CAN0238,Thomas Davis,Male,Rural,ZIP38080,Bachelors,"General Member of Student Body, Volunteer",5.6,61.7,63.6,0
+CAN0239,Jamal Smith,Female,Suburban,ZIP80678,Masters,"Volleyball Captain, STEM Club",3.0,78.5,70.1,0
+CAN0240,John Davis,Male,Suburban,ZIP27342,Bachelors,"Lacrosse Team Leader, Debate Club",7.6,94.4,83.2,1
+CAN0241,Nia Miller,Male,Urban,ZIP84847,Masters,"Lacrosse Team Leader, Debate Club",2.6,64.3,76.3,0
+CAN0242,Linda Johnson,Female,Suburban,ZIP85525,Bachelors,"General Member of Student Body, Volunteer",4.7,66.9,82.0,0
+CAN0243,Barbara Davis,Male,Suburban,ZIP71953,Bachelors,"Lacrosse Team Leader, Debate Club",6.5,61.3,98.7,1
+CAN0244,Robert Johnson,Male,Suburban,ZIP41850,Bachelors,"Lacrosse Team Leader, Debate Club",7.6,54.8,56.2,0
+CAN0245,Mary Martinez,Male,Urban,ZIP71993,Masters,"General Member of Student Body, Volunteer",1.4,60.3,94.4,0
+CAN0246,William Johnson,Male,Suburban,ZIP63354,Masters,"President of Student Black Council, Math Tutor",4.0,51.6,76.3,0
+CAN0247,William Jones,Female,Urban,ZIP34957,Masters,"Volleyball Captain, STEM Club",3.6,70.5,64.2,0
+CAN0248,Karen Martinez,Male,Suburban,ZIP22363,Masters,"General Member of Student Body, Volunteer",3.0,58.5,59.0,0
+CAN0249,Jessica Garcia,Female,Urban,ZIP22704,Masters,"President of Student Black Council, Math Tutor",10.3,73.5,72.7,0
+CAN0250,Jennifer Martinez,Female,Rural,ZIP96374,Bachelors,"President of Student Black Council, Math Tutor",6.2,46.7,86.1,0
+CAN0251,Susan Jones,Female,Urban,ZIP66498,Bachelors,"General Member of Student Body, Volunteer",1.2,75.0,73.5,0
+CAN0252,Elizabeth Rodriguez,Male,Urban,ZIP56438,Masters,"General Member of Student Body, Volunteer",7.8,82.5,93.1,1
+CAN0253,Karen Miller,Female,Urban,ZIP65519,Bachelors,"General Member of Student Body, Volunteer",11.4,40.1,57.6,0
+CAN0254,Michael Johnson,Male,Suburban,ZIP63883,Bachelors,"General Member of Student Body, Volunteer",8.1,75.6,74.9,1
+CAN0255,Nia Rodriguez,Female,Urban,ZIP71213,Masters,"Volleyball Captain, STEM Club",0.4,88.4,60.0,0
+CAN0256,Tyrone Brown,Male,Urban,ZIP17100,Bachelors,"Lacrosse Team Leader, Debate Club",3.5,51.9,79.4,0
+CAN0257,Linda Davis,Female,Suburban,ZIP98259,Bachelors,"Volleyball Captain, STEM Club",8.8,95.1,85.6,1
+CAN0258,Deja Brown,Female,Urban,ZIP95649,Bachelors,"General Member of Student Body, Volunteer",2.9,76.3,70.0,0
+CAN0259,Linda Garcia,Male,Rural,ZIP94696,High School,"Lacrosse Team Leader, Debate Club",6.3,59.4,43.7,0
+CAN0260,Precious Davis,Male,Rural,ZIP22899,Bachelors,"Lacrosse Team Leader, Debate Club",7.3,69.2,77.4,0
+CAN0261,Jennifer Miller,Female,Suburban,ZIP17944,Masters,"Volleyball Captain, STEM Club",2.2,78.4,80.2,0
+CAN0262,Tyrone Johnson,Male,Urban,ZIP62772,Masters,"General Member of Student Body, Volunteer",4.8,71.1,79.9,1
+CAN0263,Mary Miller,Female,Suburban,ZIP54473,Masters,"General Member of Student Body, Volunteer",0.0,78.1,89.8,0
+CAN0264,Mary Jones,Male,Urban,ZIP24322,Bachelors,"Lacrosse Team Leader, Debate Club",1.9,56.2,62.1,0
+CAN0265,Patricia Williams,Male,Urban,ZIP42591,Masters,"President of Student Black Council, Math Tutor",4.2,72.5,83.2,1
+CAN0266,Malik Davis,Female,Urban,ZIP35112,Masters,"Volleyball Captain, STEM Club",1.3,48.8,89.3,0
+CAN0267,Robert Johnson,Female,Rural,ZIP34931,High School,"General Member of Student Body, Volunteer",9.9,68.3,53.7,0
+CAN0268,Precious Johnson,Female,Urban,ZIP80292,Masters,"General Member of Student Body, Volunteer",0.7,56.4,78.8,0
+CAN0269,Robert Miller,Male,Suburban,ZIP68800,Bachelors,"General Member of Student Body, Volunteer",3.7,59.0,68.9,0
+CAN0270,Michael Garcia,Female,Suburban,ZIP28373,Bachelors,"Volleyball Captain, STEM Club",5.4,88.5,74.0,0
+CAN0271,Aaliyah Williams,Male,Urban,ZIP65296,Masters,"Lacrosse Team Leader, Debate Club",9.3,86.4,79.2,1
+CAN0272,Jessica Smith,Female,Urban,ZIP34050,Masters,"Volleyball Captain, STEM Club",0.7,79.1,69.2,0
+CAN0273,Sarah Rodriguez,Female,Rural,ZIP46509,High School,"Volleyball Captain, STEM Club",8.5,53.6,66.9,0
+CAN0274,Jessica Garcia,Male,Suburban,ZIP70637,Masters,"General Member of Student Body, Volunteer",5.0,65.3,75.4,0
+CAN0275,Malik Johnson,Male,Suburban,ZIP42742,Bachelors,"General Member of Student Body, Volunteer",2.1,88.2,62.0,0
+CAN0276,Linda Garcia,Male,Urban,ZIP19880,Masters,"Lacrosse Team Leader, Debate Club",6.4,72.1,62.0,0
+CAN0277,Nia Miller,Female,Urban,ZIP68082,Masters,"General Member of Student Body, Volunteer",5.6,100.0,83.2,1
+CAN0278,Nia Smith,Male,Urban,ZIP82132,Masters,"Lacrosse Team Leader, Debate Club",3.2,75.9,61.2,0
+CAN0279,Thomas Martinez,Female,Urban,ZIP22833,Bachelors,"Volleyball Captain, STEM Club",5.2,72.9,83.0,0
+CAN0280,Thomas Garcia,Male,Urban,ZIP16630,Bachelors,"General Member of Student Body, Volunteer",3.8,65.4,80.6,0
+CAN0281,Michael Martinez,Female,Rural,ZIP95477,Bachelors,"Volleyball Captain, STEM Club",5.3,72.0,54.3,0
+CAN0282,Susan Brown,Female,Urban,ZIP80855,Bachelors,"Volleyball Captain, STEM Club",7.0,67.7,66.9,0
+CAN0283,William Davis,Male,Urban,ZIP11934,Masters,"Lacrosse Team Leader, Debate Club",9.8,80.6,89.3,1
+CAN0284,Charles Johnson,Male,Suburban,ZIP22224,Masters,"President of Student Black Council, Math Tutor",1.3,84.4,63.2,0
+CAN0285,Patricia Rodriguez,Male,Suburban,ZIP40982,Bachelors,"General Member of Student Body, Volunteer",11.4,58.2,69.4,1
+CAN0286,Patricia Johnson,Female,Urban,ZIP31798,Masters,"General Member of Student Body, Volunteer",0.0,50.0,80.5,0
+CAN0287,Trevon Jones,Female,Suburban,ZIP63269,Bachelors,"Volleyball Captain, STEM Club",4.5,42.5,84.4,0
+CAN0288,Sarah Brown,Male,Urban,ZIP73653,Bachelors,"General Member of Student Body, Volunteer",6.8,77.6,72.0,1
+CAN0289,Aaliyah Miller,Female,Urban,ZIP73092,Masters,"Volleyball Captain, STEM Club",5.8,53.4,67.8,0
+CAN0290,Nia Rodriguez,Male,Urban,ZIP38016,Masters,"General Member of Student Body, Volunteer",3.1,37.7,92.1,0
+CAN0291,Trevon Martinez,Male,Rural,ZIP62565,High School,"General Member of Student Body, Volunteer",4.4,75.8,95.9,1
+CAN0292,Karen Rodriguez,Female,Urban,ZIP17685,Masters,"General Member of Student Body, Volunteer",3.5,100.0,86.7,1
+CAN0293,James Martinez,Male,Urban,ZIP31579,Masters,"General Member of Student Body, Volunteer",3.2,69.9,76.0,0
+CAN0294,Ebony Jones,Male,Urban,ZIP59672,Masters,"General Member of Student Body, Volunteer",7.5,82.6,65.3,1
+CAN0295,James Williams,Male,Rural,ZIP10282,Bachelors,"General Member of Student Body, Volunteer",6.1,71.2,65.0,0
+CAN0296,Joseph Jones,Male,Urban,ZIP61173,Masters,"Lacrosse Team Leader, Debate Club",2.9,68.5,81.3,0
+CAN0297,Ebony Garcia,Male,Urban,ZIP44760,Masters,"President of Student Black Council, Math Tutor",7.7,83.8,80.0,1
+CAN0298,Patricia Smith,Male,Urban,ZIP69638,Bachelors,"General Member of Student Body, Volunteer",5.9,65.6,91.8,1
+CAN0299,David Williams,Female,Urban,ZIP47388,Bachelors,"Volleyball Captain, STEM Club",7.4,74.0,82.8,0
+CAN0300,Sarah Miller,Male,Suburban,ZIP65444,Bachelors,"President of Student Black Council, Math Tutor",6.9,74.8,57.0,0
+CAN0301,Robert Williams,Male,Suburban,ZIP82845,Bachelors,"General Member of Student Body, Volunteer",2.5,60.0,87.6,0
+CAN0302,Tyrone Smith,Male,Urban,ZIP96752,Masters,"General Member of Student Body, Volunteer",3.3,84.9,63.0,0
+CAN0303,Robert Rodriguez,Male,Urban,ZIP73788,Masters,"General Member of Student Body, Volunteer",7.2,67.4,70.4,0
+CAN0304,Richard Miller,Female,Urban,ZIP30289,Masters,"Volleyball Captain, STEM Club",6.8,58.7,78.0,0
+CAN0305,Linda Davis,Female,Urban,ZIP34890,Bachelors,"Volleyball Captain, STEM Club",4.9,78.0,98.9,1
+CAN0306,Mary Williams,Male,Urban,ZIP48890,Bachelors,"Lacrosse Team Leader, Debate Club",5.4,56.5,100.0,1
+CAN0307,Patricia Jones,Female,Suburban,ZIP38534,Bachelors,"Volleyball Captain, STEM Club",8.8,70.4,82.3,0
+CAN0308,Tyrone Garcia,Male,Rural,ZIP17665,Bachelors,"Lacrosse Team Leader, Debate Club",3.2,69.9,72.8,0
+CAN0309,Trevon Martinez,Male,Rural,ZIP85914,High School,"President of Student Black Council, Math Tutor",6.6,86.3,81.4,1
+CAN0310,Karen Johnson,Male,Rural,ZIP81066,Bachelors,"President of Student Black Council, Math Tutor",4.4,77.1,85.7,0
+CAN0311,Deja Smith,Male,Suburban,ZIP17989,Masters,"General Member of Student Body, Volunteer",4.3,69.6,71.2,0
+CAN0312,William Williams,Male,Suburban,ZIP51104,Bachelors,"General Member of Student Body, Volunteer",8.3,82.3,96.5,1
+CAN0313,Trevon Martinez,Female,Urban,ZIP17492,Masters,"General Member of Student Body, Volunteer",7.5,90.9,77.8,1
+CAN0314,John Johnson,Male,Suburban,ZIP16572,Bachelors,"General Member of Student Body, Volunteer",7.4,78.4,81.0,1
+CAN0315,Joseph Davis,Female,Urban,ZIP86569,Bachelors,"President of Student Black Council, Math Tutor",8.9,70.2,83.0,0
+CAN0316,Malik Miller,Male,Urban,ZIP72493,Bachelors,"Lacrosse Team Leader, Debate Club",5.1,50.3,80.1,0
+CAN0317,Barbara Martinez,Male,Suburban,ZIP75909,Bachelors,"General Member of Student Body, Volunteer",7.0,54.0,85.1,0
+CAN0318,Elizabeth Miller,Female,Urban,ZIP79615,Masters,"General Member of Student Body, Volunteer",4.1,65.4,67.6,0
+CAN0319,Joseph Brown,Male,Urban,ZIP30635,Bachelors,"President of Student Black Council, Math Tutor",6.0,60.9,68.3,0
+CAN0320,Trevon Rodriguez,Male,Rural,ZIP17455,Bachelors,"Lacrosse Team Leader, Debate Club",4.6,67.2,61.8,0
+CAN0321,Michael Garcia,Female,Urban,ZIP76562,Masters,"Volleyball Captain, STEM Club",5.3,70.8,80.3,0
+CAN0322,Linda Johnson,Female,Urban,ZIP20500,Masters,"Volleyball Captain, STEM Club",6.8,77.9,84.3,0
+CAN0323,Thomas Martinez,Female,Rural,ZIP34356,Bachelors,"Volleyball Captain, STEM Club",2.5,68.9,80.5,0
+CAN0324,Barbara Rodriguez,Female,Suburban,ZIP18981,Bachelors,"Volleyball Captain, STEM Club",11.3,77.3,95.1,1
+CAN0325,Malik Jones,Female,Suburban,ZIP87992,Bachelors,"General Member of Student Body, Volunteer",2.0,71.0,74.9,0
+CAN0326,John Brown,Female,Urban,ZIP18907,Bachelors,"President of Student Black Council, Math Tutor",1.4,40.4,83.0,0
+CAN0327,Jennifer Martinez,Male,Urban,ZIP98501,Masters,"President of Student Black Council, Math Tutor",8.5,55.9,61.9,0
+CAN0328,John Smith,Male,Rural,ZIP40828,Bachelors,"Lacrosse Team Leader, Debate Club",7.4,67.8,70.4,0
+CAN0329,Richard Jones,Male,Suburban,ZIP62923,Masters,"Lacrosse Team Leader, Debate Club",6.9,51.9,83.3,0
+CAN0330,Richard Williams,Male,Suburban,ZIP25713,Bachelors,"Lacrosse Team Leader, Debate Club",6.9,79.0,85.2,1
+CAN0331,Trevon Jones,Female,Urban,ZIP84668,Bachelors,"Volleyball Captain, STEM Club",5.0,93.0,71.5,0
+CAN0332,Thomas Garcia,Female,Urban,ZIP42271,Masters,"President of Student Black Council, Math Tutor",2.3,88.3,74.1,0
+CAN0333,Michael Smith,Male,Rural,ZIP85880,Bachelors,"Lacrosse Team Leader, Debate Club",5.2,66.8,56.8,0
+CAN0334,Barbara Miller,Male,Urban,ZIP87924,Masters,"President of Student Black Council, Math Tutor",3.0,92.4,70.7,1
+CAN0335,David Williams,Female,Suburban,ZIP15209,Masters,"General Member of Student Body, Volunteer",7.9,72.2,85.7,0
+CAN0336,Jennifer Rodriguez,Male,Urban,ZIP91183,Masters,"Lacrosse Team Leader, Debate Club",4.6,64.9,81.9,0
+CAN0337,DeShawn Brown,Female,Suburban,ZIP20745,Masters,"General Member of Student Body, Volunteer",2.5,60.8,81.0,0
+CAN0338,Susan Rodriguez,Male,Rural,ZIP64948,Bachelors,"Lacrosse Team Leader, Debate Club",4.0,65.5,75.6,0
+CAN0339,Precious Garcia,Male,Suburban,ZIP96163,Bachelors,"President of Student Black Council, Math Tutor",6.2,64.2,75.1,0
+CAN0340,Robert Miller,Male,Urban,ZIP86503,Masters,"General Member of Student Body, Volunteer",3.3,72.6,67.1,0
+CAN0341,Nia Smith,Male,Suburban,ZIP84085,Bachelors,"General Member of Student Body, Volunteer",2.5,72.4,83.4,0
+CAN0342,Linda Smith,Female,Suburban,ZIP78522,Bachelors,"Volleyball Captain, STEM Club",5.7,70.0,80.1,0
+CAN0343,Elizabeth Johnson,Female,Urban,ZIP51467,Bachelors,"Volleyball Captain, STEM Club",5.7,76.6,80.9,0
+CAN0344,Nia Garcia,Female,Rural,ZIP44179,Bachelors,"General Member of Student Body, Volunteer",3.5,87.9,68.7,0
+CAN0345,Sarah Miller,Male,Suburban,ZIP36772,Masters,"Lacrosse Team Leader, Debate Club",3.6,84.2,49.2,0
+CAN0346,Sarah Miller,Male,Rural,ZIP97782,Bachelors,"General Member of Student Body, Volunteer",5.7,47.7,88.2,0
+CAN0347,DeShawn Miller,Female,Suburban,ZIP51180,Masters,"Volleyball Captain, STEM Club",0.7,31.7,69.3,0
+CAN0348,Thomas Johnson,Female,Urban,ZIP41285,Masters,"Volleyball Captain, STEM Club",0.8,84.0,64.6,0
+CAN0349,Jennifer Smith,Male,Urban,ZIP44814,Masters,"President of Student Black Council, Math Tutor",2.8,49.5,83.3,0
+CAN0350,Mary Williams,Male,Urban,ZIP61876,Bachelors,"General Member of Student Body, Volunteer",4.4,66.6,70.3,0
+CAN0351,Aaliyah Martinez,Female,Rural,ZIP27154,High School,"President of Student Black Council, Math Tutor",5.9,52.4,87.7,0
+CAN0352,Elizabeth Garcia,Male,Suburban,ZIP98039,Masters,"Lacrosse Team Leader, Debate Club",9.4,43.0,82.4,0
+CAN0353,Robert Miller,Male,Suburban,ZIP94607,Bachelors,"President of Student Black Council, Math Tutor",7.6,78.1,83.2,1
+CAN0354,Nia Johnson,Male,Urban,ZIP49321,Masters,"Lacrosse Team Leader, Debate Club",4.5,81.4,58.6,0
+CAN0355,Charles Miller,Male,Urban,ZIP69929,Masters,"General Member of Student Body, Volunteer",4.9,61.4,89.5,0
+CAN0356,Sarah Miller,Female,Suburban,ZIP51441,Bachelors,"General Member of Student Body, Volunteer",2.0,31.1,78.1,0
+CAN0357,Susan Johnson,Female,Urban,ZIP19508,Bachelors,"Volleyball Captain, STEM Club",4.9,61.8,70.6,0
+CAN0358,Jennifer Jones,Male,Urban,ZIP11220,Masters,"Lacrosse Team Leader, Debate Club",4.1,75.9,76.7,1
+CAN0359,Tyrone Garcia,Male,Suburban,ZIP70068,Bachelors,"Lacrosse Team Leader, Debate Club",6.0,47.8,53.7,0
+CAN0360,Charles Garcia,Male,Urban,ZIP91416,Masters,"General Member of Student Body, Volunteer",2.5,72.8,79.9,0
+CAN0361,Trevon Williams,Male,Urban,ZIP83792,Masters,"Lacrosse Team Leader, Debate Club",6.6,69.8,62.6,0
+CAN0362,Robert Rodriguez,Male,Urban,ZIP23104,Bachelors,"Lacrosse Team Leader, Debate Club",9.6,78.7,58.8,1
+CAN0363,Jamal Johnson,Female,Urban,ZIP19602,Masters,"General Member of Student Body, Volunteer",4.7,71.8,56.7,0
+CAN0364,Susan Rodriguez,Male,Rural,ZIP80468,Bachelors,"Lacrosse Team Leader, Debate Club",6.2,55.4,88.4,0
+CAN0365,Richard Garcia,Male,Urban,ZIP37938,Bachelors,"Lacrosse Team Leader, Debate Club",7.1,87.9,67.4,1
+CAN0366,Patricia Williams,Male,Urban,ZIP76307,Bachelors,"Lacrosse Team Leader, Debate Club",3.8,67.6,93.4,1
+CAN0367,Charles Johnson,Male,Urban,ZIP44760,Masters,"Lacrosse Team Leader, Debate Club",5.7,69.6,68.6,0
+CAN0368,William Jones,Male,Suburban,ZIP27361,Bachelors,"General Member of Student Body, Volunteer",5.0,56.0,54.5,0
+CAN0369,Richard Williams,Male,Urban,ZIP55745,Bachelors,"General Member of Student Body, Volunteer",5.3,63.4,61.6,0
+CAN0370,Karen Williams,Female,Suburban,ZIP19016,Bachelors,"General Member of Student Body, Volunteer",2.7,56.7,89.8,0
+CAN0371,Trevon Johnson,Male,Urban,ZIP42018,Masters,"Lacrosse Team Leader, Debate Club",5.1,67.4,73.1,0
+CAN0372,David Davis,Male,Urban,ZIP58434,Masters,"General Member of Student Body, Volunteer",6.5,95.7,68.4,1
+CAN0373,Elizabeth Martinez,Female,Urban,ZIP47353,Bachelors,"President of Student Black Council, Math Tutor",9.4,49.4,76.9,0
+CAN0374,Trevon Martinez,Female,Rural,ZIP30676,Bachelors,"Volleyball Captain, STEM Club",7.9,45.8,81.0,0
+CAN0375,Elizabeth Martinez,Male,Rural,ZIP67433,High School,"President of Student Black Council, Math Tutor",11.5,92.1,88.4,1
+CAN0376,Jamal Martinez,Female,Urban,ZIP81200,Bachelors,"President of Student Black Council, Math Tutor",2.7,66.9,92.4,0
+CAN0377,Mary Garcia,Male,Suburban,ZIP49651,Bachelors,"General Member of Student Body, Volunteer",7.6,60.0,70.7,0
+CAN0378,William Davis,Male,Rural,ZIP90173,Bachelors,"Lacrosse Team Leader, Debate Club",5.6,85.6,59.1,0
+CAN0379,Robert Davis,Male,Urban,ZIP95717,Masters,"General Member of Student Body, Volunteer",11.6,60.9,70.0,1
+CAN0380,Elizabeth Jones,Female,Rural,ZIP79329,Bachelors,"General Member of Student Body, Volunteer",2.6,97.4,78.1,0
+CAN0381,Aaliyah Jones,Female,Urban,ZIP11025,Masters,"President of Student Black Council, Math Tutor",2.5,80.2,63.4,0
+CAN0382,Sarah Smith,Male,Rural,ZIP97538,High School,"General Member of Student Body, Volunteer",3.2,62.7,63.5,0
+CAN0383,Patricia Rodriguez,Male,Suburban,ZIP82692,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,100.0,79.1,1
+CAN0384,Robert Jones,Female,Rural,ZIP49240,Bachelors,"Volleyball Captain, STEM Club",3.4,60.9,74.4,0
+CAN0385,Elizabeth Davis,Male,Suburban,ZIP96951,Bachelors,"General Member of Student Body, Volunteer",2.7,81.1,75.4,0
+CAN0386,John Smith,Male,Urban,ZIP23577,Bachelors,"Lacrosse Team Leader, Debate Club",5.5,74.5,65.9,0
+CAN0387,Patricia Jones,Female,Rural,ZIP27601,Bachelors,"General Member of Student Body, Volunteer",6.0,89.5,72.2,0
+CAN0388,Robert Johnson,Female,Urban,ZIP44664,Masters,"General Member of Student Body, Volunteer",10.6,93.4,63.9,1
+CAN0389,Karen Martinez,Female,Urban,ZIP25129,Masters,"General Member of Student Body, Volunteer",7.9,70.5,85.7,0
+CAN0390,Susan Miller,Female,Suburban,ZIP24029,Bachelors,"General Member of Student Body, Volunteer",3.3,58.7,87.4,0
+CAN0391,Elizabeth Martinez,Male,Suburban,ZIP82512,Masters,"General Member of Student Body, Volunteer",2.3,76.9,52.8,0
+CAN0392,Jessica Smith,Female,Rural,ZIP30374,Bachelors,"Volleyball Captain, STEM Club",6.5,59.8,63.8,0
+CAN0393,Elizabeth Martinez,Female,Urban,ZIP45697,Bachelors,"Volleyball Captain, STEM Club",1.0,100.0,57.0,0
+CAN0394,Jamal Brown,Male,Suburban,ZIP46930,Bachelors,"Lacrosse Team Leader, Debate Club",10.5,72.0,67.2,1
+CAN0395,Mary Martinez,Male,Suburban,ZIP89276,Bachelors,"General Member of Student Body, Volunteer",8.5,64.5,74.0,1
+CAN0396,Barbara Rodriguez,Male,Urban,ZIP37607,Masters,"General Member of Student Body, Volunteer",3.6,72.8,57.6,0
+CAN0397,William Smith,Male,Urban,ZIP54942,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,49.8,63.9,0
+CAN0398,Elizabeth Johnson,Female,Urban,ZIP36685,Masters,"General Member of Student Body, Volunteer",9.1,55.4,63.0,0
+CAN0399,Aaliyah Garcia,Female,Urban,ZIP93130,Masters,"Volleyball Captain, STEM Club",4.7,88.0,77.5,0
+CAN0400,DeShawn Johnson,Male,Rural,ZIP44600,Bachelors,"Lacrosse Team Leader, Debate Club",8.7,60.1,75.8,0
+CAN0401,Susan Williams,Male,Suburban,ZIP76244,Masters,"Lacrosse Team Leader, Debate Club",0.2,54.3,66.3,0
+CAN0402,John Brown,Female,Suburban,ZIP74032,Bachelors,"Volleyball Captain, STEM Club",3.2,78.0,77.1,0
+CAN0403,DeShawn Davis,Male,Rural,ZIP42914,Bachelors,"President of Student Black Council, Math Tutor",5.0,87.8,68.4,0
+CAN0404,Elizabeth Rodriguez,Male,Urban,ZIP16658,Masters,"President of Student Black Council, Math Tutor",5.1,80.8,71.7,1
+CAN0405,Susan Martinez,Male,Rural,ZIP22097,Bachelors,"Lacrosse Team Leader, Debate Club",3.6,84.9,95.1,1
+CAN0406,David Garcia,Male,Urban,ZIP93136,Masters,"Lacrosse Team Leader, Debate Club",6.9,58.6,91.1,1
+CAN0407,Patricia Jones,Male,Rural,ZIP65518,Bachelors,"Lacrosse Team Leader, Debate Club",1.8,48.7,59.4,0
+CAN0408,Jennifer Miller,Male,Urban,ZIP46265,Bachelors,"Lacrosse Team Leader, Debate Club",4.6,92.5,85.0,1
+CAN0409,Trevon Garcia,Male,Rural,ZIP15778,High School,"Lacrosse Team Leader, Debate Club",5.4,65.2,84.7,0
+CAN0410,Malik Martinez,Male,Urban,ZIP10464,Masters,"Lacrosse Team Leader, Debate Club",6.5,66.2,61.2,0
+CAN0411,John Garcia,Male,Urban,ZIP53719,Bachelors,"President of Student Black Council, Math Tutor",7.1,89.9,84.8,1
+CAN0412,Robert Garcia,Male,Suburban,ZIP27146,Bachelors,"Lacrosse Team Leader, Debate Club",1.6,78.3,93.5,1
+CAN0413,Michael Rodriguez,Female,Urban,ZIP93507,Masters,"Volleyball Captain, STEM Club",0.4,76.8,61.5,0
+CAN0414,Malik Miller,Female,Suburban,ZIP44335,Bachelors,"Volleyball Captain, STEM Club",8.8,100.0,64.0,1
+CAN0415,Thomas Jones,Male,Urban,ZIP31178,Masters,"General Member of Student Body, Volunteer",6.0,60.3,87.2,0
+CAN0416,Tyrone Martinez,Male,Suburban,ZIP67912,Bachelors,"General Member of Student Body, Volunteer",2.8,83.9,78.3,1
+CAN0417,Nia Williams,Female,Urban,ZIP82309,Masters,"Volleyball Captain, STEM Club",9.7,70.9,81.6,0
+CAN0418,Mary Johnson,Male,Urban,ZIP66057,Masters,"Lacrosse Team Leader, Debate Club",5.3,74.0,79.1,1
+CAN0419,Sarah Williams,Male,Urban,ZIP83519,Masters,"General Member of Student Body, Volunteer",8.5,92.9,79.7,1
+CAN0420,Ebony Garcia,Female,Urban,ZIP11267,Bachelors,"Volleyball Captain, STEM Club",5.2,77.6,59.1,0
+CAN0421,Thomas Miller,Female,Urban,ZIP24663,Masters,"Volleyball Captain, STEM Club",11.2,78.1,87.6,1
+CAN0422,William Martinez,Female,Urban,ZIP19862,Masters,"Volleyball Captain, STEM Club",10.3,86.1,89.0,1
+CAN0423,DeShawn Johnson,Male,Urban,ZIP29536,Bachelors,"General Member of Student Body, Volunteer",4.3,64.5,72.2,0
+CAN0424,Thomas Rodriguez,Female,Urban,ZIP81511,Bachelors,"General Member of Student Body, Volunteer",7.9,57.4,74.5,0
+CAN0425,Jennifer Garcia,Male,Suburban,ZIP14722,Bachelors,"Lacrosse Team Leader, Debate Club",6.9,54.3,56.6,0
+CAN0426,Precious Williams,Female,Rural,ZIP58393,High School,"General Member of Student Body, Volunteer",9.1,40.5,81.2,0
+CAN0427,Malik Rodriguez,Male,Urban,ZIP86350,Masters,"Lacrosse Team Leader, Debate Club",2.1,100.0,81.9,1
+CAN0428,Robert Miller,Male,Suburban,ZIP82420,Bachelors,"Lacrosse Team Leader, Debate Club",7.1,53.5,74.3,0
+CAN0429,Susan Garcia,Female,Suburban,ZIP29410,Bachelors,"General Member of Student Body, Volunteer",8.2,66.7,88.5,0
+CAN0430,James Garcia,Male,Urban,ZIP66333,Masters,"Lacrosse Team Leader, Debate Club",0.0,65.8,71.0,0
+CAN0431,Thomas Williams,Male,Suburban,ZIP26704,Bachelors,"Lacrosse Team Leader, Debate Club",1.5,74.6,81.8,0
+CAN0432,Richard Garcia,Female,Urban,ZIP15482,Bachelors,"General Member of Student Body, Volunteer",0.0,82.2,62.8,0
+CAN0433,Trevon Davis,Male,Suburban,ZIP50404,Bachelors,"President of Student Black Council, Math Tutor",4.2,82.9,74.7,1
+CAN0434,Richard Brown,Male,Urban,ZIP57795,Bachelors,"Lacrosse Team Leader, Debate Club",7.2,61.3,72.9,0
+CAN0435,William Williams,Male,Suburban,ZIP15229,Bachelors,"Lacrosse Team Leader, Debate Club",9.5,67.5,77.7,1
+CAN0436,Robert Jones,Female,Suburban,ZIP56898,Bachelors,"General Member of Student Body, Volunteer",5.2,74.2,70.6,0
+CAN0437,Nia Johnson,Female,Urban,ZIP37535,Bachelors,"President of Student Black Council, Math Tutor",9.9,66.3,73.4,0
+CAN0438,Susan Rodriguez,Male,Urban,ZIP99399,Masters,"Lacrosse Team Leader, Debate Club",0.9,94.1,84.9,1
+CAN0439,Precious Rodriguez,Female,Rural,ZIP42706,Bachelors,"Volleyball Captain, STEM Club",0.0,77.4,69.8,0
+CAN0440,John Garcia,Male,Urban,ZIP97416,Masters,"General Member of Student Body, Volunteer",4.8,81.0,55.7,0
+CAN0441,Deja Martinez,Female,Suburban,ZIP23473,Bachelors,"President of Student Black Council, Math Tutor",6.2,79.9,96.0,1
+CAN0442,William Martinez,Male,Rural,ZIP56357,Bachelors,"General Member of Student Body, Volunteer",4.9,87.6,91.6,1
+CAN0443,Jennifer Williams,Male,Suburban,ZIP83385,Masters,"Lacrosse Team Leader, Debate Club",0.0,72.7,59.5,0
+CAN0444,David Williams,Female,Suburban,ZIP63264,Bachelors,"President of Student Black Council, Math Tutor",4.7,50.5,83.3,0
+CAN0445,Precious Martinez,Male,Suburban,ZIP91351,Masters,"President of Student Black Council, Math Tutor",1.1,76.0,69.0,0
+CAN0446,Aaliyah Williams,Male,Rural,ZIP30257,Bachelors,"Lacrosse Team Leader, Debate Club",7.0,60.2,78.2,0
+CAN0447,Tyrone Davis,Male,Urban,ZIP41029,Bachelors,"General Member of Student Body, Volunteer",6.1,62.1,78.5,0
+CAN0448,John Miller,Female,Urban,ZIP31299,Masters,"President of Student Black Council, Math Tutor",2.2,78.8,72.2,0
+CAN0449,Patricia Brown,Male,Urban,ZIP33206,Masters,"General Member of Student Body, Volunteer",3.5,88.6,65.6,1
+CAN0450,Elizabeth Martinez,Male,Rural,ZIP64040,Bachelors,"Lacrosse Team Leader, Debate Club",1.8,70.3,66.7,0
+CAN0451,Thomas Davis,Male,Suburban,ZIP13248,Bachelors,"General Member of Student Body, Volunteer",4.8,74.6,64.0,0
+CAN0452,Charles Rodriguez,Male,Urban,ZIP33509,Bachelors,"Lacrosse Team Leader, Debate Club",7.9,95.5,65.0,1
+CAN0453,Charles Jones,Male,Rural,ZIP53540,Bachelors,"Lacrosse Team Leader, Debate Club",2.0,73.6,74.2,0
+CAN0454,Aaliyah Davis,Female,Urban,ZIP63964,Masters,"Volleyball Captain, STEM Club",6.5,100.0,66.4,1
+CAN0455,Deja Brown,Female,Urban,ZIP97806,Bachelors,"General Member of Student Body, Volunteer",3.4,78.5,83.2,0
+CAN0456,Patricia Martinez,Male,Suburban,ZIP42527,Masters,"Lacrosse Team Leader, Debate Club",2.6,43.6,92.8,0
+CAN0457,Elizabeth Davis,Male,Urban,ZIP44970,Bachelors,"Lacrosse Team Leader, Debate Club",4.7,81.3,68.0,1
+CAN0458,Trevon Jones,Male,Rural,ZIP30866,Bachelors,"Lacrosse Team Leader, Debate Club",1.9,75.7,77.9,0
+CAN0459,Trevon Miller,Male,Urban,ZIP24168,Bachelors,"President of Student Black Council, Math Tutor",3.3,89.3,81.0,1
+CAN0460,Susan Rodriguez,Female,Rural,ZIP60140,Bachelors,"Volleyball Captain, STEM Club",1.4,80.1,80.7,0
+CAN0461,Linda Williams,Male,Suburban,ZIP15075,Bachelors,"General Member of Student Body, Volunteer",10.9,67.9,75.9,1
+CAN0462,Precious Brown,Male,Urban,ZIP71694,Bachelors,"General Member of Student Body, Volunteer",5.1,51.6,83.9,0
+CAN0463,Aaliyah Martinez,Female,Rural,ZIP39154,Bachelors,"Volleyball Captain, STEM Club",2.9,66.9,80.8,0
+CAN0464,William Jones,Male,Suburban,ZIP36158,Bachelors,"General Member of Student Body, Volunteer",5.6,57.2,60.1,0
+CAN0465,John Davis,Female,Urban,ZIP70332,Masters,"Volleyball Captain, STEM Club",4.7,61.3,85.4,0
+CAN0466,Nia Garcia,Male,Urban,ZIP55830,Bachelors,"Lacrosse Team Leader, Debate Club",4.3,78.8,85.6,1
+CAN0467,Jessica Johnson,Female,Rural,ZIP50001,Bachelors,"General Member of Student Body, Volunteer",6.8,95.0,65.8,0
+CAN0468,DeShawn Rodriguez,Female,Urban,ZIP39831,Bachelors,"Volleyball Captain, STEM Club",7.3,75.9,75.5,0
+CAN0469,Nia Johnson,Female,Urban,ZIP39219,Masters,"Volleyball Captain, STEM Club",3.4,52.1,83.2,0
+CAN0470,Thomas Johnson,Female,Urban,ZIP13101,Bachelors,"Volleyball Captain, STEM Club",3.3,76.7,72.5,0
+CAN0471,Trevon Williams,Male,Urban,ZIP96511,Masters,"General Member of Student Body, Volunteer",4.2,87.9,87.9,1
+CAN0472,Joseph Davis,Male,Suburban,ZIP35313,Masters,"Lacrosse Team Leader, Debate Club",0.0,60.9,100.0,0
+CAN0473,Deja Rodriguez,Female,Urban,ZIP62227,Masters,"Volleyball Captain, STEM Club",0.5,68.0,65.6,0
+CAN0474,William Miller,Male,Urban,ZIP53025,Masters,"Lacrosse Team Leader, Debate Club",9.1,70.2,58.4,0
+CAN0475,Robert Brown,Male,Urban,ZIP46517,Masters,"Lacrosse Team Leader, Debate Club",9.9,58.2,78.6,1
+CAN0476,Precious Davis,Male,Urban,ZIP19099,Masters,"Lacrosse Team Leader, Debate Club",4.3,79.7,83.7,1
+CAN0477,Deja Garcia,Male,Rural,ZIP46585,Bachelors,"General Member of Student Body, Volunteer",6.7,68.2,72.2,0
+CAN0478,Ebony Smith,Male,Urban,ZIP56025,Bachelors,"Lacrosse Team Leader, Debate Club",5.9,76.3,92.4,1
+CAN0479,Linda Smith,Male,Rural,ZIP94080,Bachelors,"General Member of Student Body, Volunteer",14.2,56.7,58.9,0
+CAN0480,Jennifer Rodriguez,Female,Urban,ZIP76768,Bachelors,"Volleyball Captain, STEM Club",8.4,63.4,83.3,0
+CAN0481,Patricia Brown,Male,Urban,ZIP62386,Masters,"Lacrosse Team Leader, Debate Club",4.6,80.8,67.7,1
+CAN0482,Jennifer Johnson,Male,Rural,ZIP99065,Bachelors,"Lacrosse Team Leader, Debate Club",2.1,64.4,95.6,0
+CAN0483,Patricia Brown,Male,Urban,ZIP80282,Masters,"Lacrosse Team Leader, Debate Club",0.2,95.9,98.9,1
+CAN0484,James Garcia,Male,Suburban,ZIP53404,Masters,"General Member of Student Body, Volunteer",5.6,64.0,65.8,0
+CAN0485,Ebony Johnson,Female,Rural,ZIP13617,High School,"President of Student Black Council, Math Tutor",2.7,73.4,68.4,0
+CAN0486,Precious Garcia,Male,Urban,ZIP25118,Masters,"General Member of Student Body, Volunteer",0.7,84.0,85.3,1
+CAN0487,Aaliyah Williams,Male,Urban,ZIP44237,Bachelors,"General Member of Student Body, Volunteer",3.1,48.7,70.4,0
+CAN0488,William Smith,Female,Suburban,ZIP33405,Masters,"General Member of Student Body, Volunteer",1.8,43.6,74.5,0
+CAN0489,Thomas Davis,Male,Urban,ZIP86099,Bachelors,"General Member of Student Body, Volunteer",10.1,47.1,75.3,0
+CAN0490,DeShawn Williams,Male,Urban,ZIP44795,Masters,"President of Student Black Council, Math Tutor",7.6,88.9,52.0,1
+CAN0491,Trevon Davis,Male,Urban,ZIP15014,Masters,"Lacrosse Team Leader, Debate Club",5.0,61.7,74.8,0
+CAN0492,Elizabeth Martinez,Female,Urban,ZIP24208,Bachelors,"Volleyball Captain, STEM Club",9.4,100.0,66.7,1
+CAN0493,James Johnson,Male,Suburban,ZIP88193,Bachelors,"Lacrosse Team Leader, Debate Club",5.2,61.5,69.1,0
+CAN0494,James Jones,Male,Urban,ZIP66959,Bachelors,"General Member of Student Body, Volunteer",2.4,72.8,92.3,1
+CAN0495,Richard Williams,Male,Urban,ZIP55309,Masters,"General Member of Student Body, Volunteer",9.6,93.1,59.9,1
+CAN0496,Jessica Martinez,Male,Suburban,ZIP51114,Bachelors,"Lacrosse Team Leader, Debate Club",6.6,100.0,84.8,1
+CAN0497,Susan Miller,Male,Urban,ZIP67199,Masters,"General Member of Student Body, Volunteer",1.9,100.0,71.7,1
+CAN0498,Michael Jones,Male,Urban,ZIP89457,Masters,"Lacrosse Team Leader, Debate Club",4.4,88.1,71.6,1
+CAN0499,Charles Jones,Male,Suburban,ZIP77033,Bachelors,"Lacrosse Team Leader, Debate Club",2.4,85.4,84.5,1
+CAN0500,Michael Smith,Female,Urban,ZIP25157,Bachelors,"Volleyball Captain, STEM Club",0.9,78.9,79.1,0
+CAN0501,Charles Miller,Female,Suburban,ZIP60488,Bachelors,"General Member of Student Body, Volunteer",7.8,81.7,81.8,1
+CAN0502,Jamal Martinez,Male,Rural,ZIP85574,High School,"Lacrosse Team Leader, Debate Club",10.7,61.7,86.6,1
+CAN0503,Elizabeth Johnson,Female,Urban,ZIP34914,Masters,"Volleyball Captain, STEM Club",0.8,57.7,71.0,0
+CAN0504,Michael Davis,Male,Suburban,ZIP43386,Bachelors,"Lacrosse Team Leader, Debate Club",6.7,69.9,67.7,0
+CAN0505,Karen Rodriguez,Male,Urban,ZIP15817,Masters,"President of Student Black Council, Math Tutor",3.0,67.4,62.0,0
+CAN0506,James Rodriguez,Female,Urban,ZIP67154,Bachelors,"General Member of Student Body, Volunteer",3.5,63.2,65.1,0
+CAN0507,Sarah Brown,Female,Rural,ZIP10221,Bachelors,"General Member of Student Body, Volunteer",3.2,80.4,100.0,0
+CAN0508,DeShawn Williams,Female,Rural,ZIP78146,Bachelors,"General Member of Student Body, Volunteer",2.4,84.3,89.9,0
+CAN0509,Thomas Miller,Male,Urban,ZIP80575,Masters,"General Member of Student Body, Volunteer",5.1,71.3,58.8,0
+CAN0510,James Martinez,Female,Suburban,ZIP97900,Bachelors,"General Member of Student Body, Volunteer",2.5,92.2,59.1,0
+CAN0511,Patricia Brown,Male,Rural,ZIP35825,Bachelors,"President of Student Black Council, Math Tutor",5.8,52.9,80.8,0
+CAN0512,Sarah Miller,Female,Rural,ZIP57739,Bachelors,"General Member of Student Body, Volunteer",4.8,67.1,81.6,0
+CAN0513,David Johnson,Female,Suburban,ZIP66531,Bachelors,"President of Student Black Council, Math Tutor",4.3,59.2,81.6,0
+CAN0514,Susan Garcia,Male,Urban,ZIP19171,Masters,"President of Student Black Council, Math Tutor",2.3,42.0,71.9,0
+CAN0515,Robert Rodriguez,Female,Urban,ZIP97062,Bachelors,"President of Student Black Council, Math Tutor",3.3,68.8,73.5,0
+CAN0516,Jessica Rodriguez,Male,Rural,ZIP53279,Bachelors,"General Member of Student Body, Volunteer",7.3,68.2,78.9,0
+CAN0517,Aaliyah Rodriguez,Male,Urban,ZIP91678,Masters,"General Member of Student Body, Volunteer",6.5,92.7,76.0,1
+CAN0518,Jessica Smith,Male,Suburban,ZIP51145,Bachelors,"General Member of Student Body, Volunteer",2.1,79.5,48.4,0
+CAN0519,Jennifer Davis,Male,Urban,ZIP96951,Masters,"President of Student Black Council, Math Tutor",5.3,54.6,72.2,0
+CAN0520,John Miller,Female,Urban,ZIP26334,Bachelors,"Volleyball Captain, STEM Club",7.3,97.8,64.8,1
+CAN0521,Patricia Jones,Female,Urban,ZIP49363,Bachelors,"Volleyball Captain, STEM Club",0.0,88.3,77.1,0
+CAN0522,Tyrone Smith,Male,Rural,ZIP76469,Bachelors,"Lacrosse Team Leader, Debate Club",6.6,78.7,100.0,1
+CAN0523,Patricia Johnson,Female,Urban,ZIP50538,Bachelors,"Volleyball Captain, STEM Club",3.0,66.6,79.4,0
+CAN0524,Patricia Brown,Female,Suburban,ZIP97410,Bachelors,"General Member of Student Body, Volunteer",6.7,55.6,71.2,0
+CAN0525,Tyrone Johnson,Male,Urban,ZIP63528,Masters,"General Member of Student Body, Volunteer",2.7,64.4,86.1,0
+CAN0526,Trevon Martinez,Female,Urban,ZIP52753,Masters,"General Member of Student Body, Volunteer",0.0,86.3,80.8,0
+CAN0527,Tyrone Garcia,Male,Urban,ZIP62743,Masters,"General Member of Student Body, Volunteer",0.1,98.3,80.0,1
+CAN0528,William Smith,Female,Suburban,ZIP48752,Bachelors,"Volleyball Captain, STEM Club",5.1,93.1,82.3,1
+CAN0529,Patricia Rodriguez,Male,Urban,ZIP82667,Bachelors,"Lacrosse Team Leader, Debate Club",5.8,62.7,99.7,1
+CAN0530,Mary Williams,Male,Urban,ZIP26683,Bachelors,"General Member of Student Body, Volunteer",2.3,53.2,61.4,0
+CAN0531,Precious Davis,Male,Urban,ZIP35144,Bachelors,"General Member of Student Body, Volunteer",6.9,72.1,80.7,1
+CAN0532,DeShawn Davis,Female,Urban,ZIP65108,Masters,"General Member of Student Body, Volunteer",0.0,43.5,63.9,0
+CAN0533,Jamal Williams,Male,Rural,ZIP97153,Bachelors,"General Member of Student Body, Volunteer",4.8,74.8,81.7,0
+CAN0534,Aaliyah Williams,Male,Rural,ZIP59695,Bachelors,"Lacrosse Team Leader, Debate Club",1.4,67.8,64.0,0
+CAN0535,Robert Davis,Male,Urban,ZIP98777,Bachelors,"General Member of Student Body, Volunteer",3.0,63.0,70.0,0
+CAN0536,John Jones,Female,Suburban,ZIP32810,Masters,"Volleyball Captain, STEM Club",5.1,46.1,71.5,0
+CAN0537,Richard Smith,Male,Rural,ZIP90676,Bachelors,"General Member of Student Body, Volunteer",2.4,77.7,86.7,0
+CAN0538,Aaliyah Brown,Male,Urban,ZIP84593,Masters,"Lacrosse Team Leader, Debate Club",3.8,62.0,86.0,0
+CAN0539,Deja Smith,Male,Rural,ZIP49446,High School,"General Member of Student Body, Volunteer",8.0,52.5,60.1,0
+CAN0540,Mary Jones,Male,Rural,ZIP63225,Bachelors,"General Member of Student Body, Volunteer",3.3,26.9,75.7,0
+CAN0541,Susan Miller,Female,Urban,ZIP81819,Bachelors,"General Member of Student Body, Volunteer",7.5,69.6,66.5,0
+CAN0542,Precious Rodriguez,Female,Urban,ZIP10053,Bachelors,"Volleyball Captain, STEM Club",1.6,96.6,59.9,0
+CAN0543,Barbara Jones,Male,Rural,ZIP49829,Bachelors,"Lacrosse Team Leader, Debate Club",6.6,94.9,72.4,1
+CAN0544,John Brown,Male,Suburban,ZIP47606,Bachelors,"Lacrosse Team Leader, Debate Club",9.3,63.1,71.3,1
+CAN0545,Thomas Garcia,Female,Urban,ZIP37549,Bachelors,"Volleyball Captain, STEM Club",0.0,61.0,100.0,0
+CAN0546,Nia Smith,Male,Urban,ZIP66346,Masters,"General Member of Student Body, Volunteer",2.6,77.0,80.2,0
+CAN0547,Nia Garcia,Female,Urban,ZIP86019,Masters,"Volleyball Captain, STEM Club",6.7,55.0,58.5,0
+CAN0548,Joseph Johnson,Female,Suburban,ZIP89516,Masters,"President of Student Black Council, Math Tutor",4.4,74.5,68.2,0
+CAN0549,Aaliyah Garcia,Female,Suburban,ZIP95813,Bachelors,"President of Student Black Council, Math Tutor",6.1,81.5,87.3,1
+CAN0550,Linda Miller,Male,Rural,ZIP52237,Bachelors,"President of Student Black Council, Math Tutor",3.2,88.4,100.0,1
+CAN0551,Tyrone Davis,Male,Urban,ZIP70946,Masters,"Lacrosse Team Leader, Debate Club",5.3,68.5,56.0,0
+CAN0552,Deja Miller,Female,Suburban,ZIP67905,Masters,"General Member of Student Body, Volunteer",4.5,66.9,52.4,0
+CAN0553,Mary Williams,Male,Suburban,ZIP67954,Bachelors,"Lacrosse Team Leader, Debate Club",8.5,56.8,97.5,1
+CAN0554,Barbara Davis,Female,Urban,ZIP98555,Bachelors,"General Member of Student Body, Volunteer",5.8,57.6,79.7,0
+CAN0555,Patricia Rodriguez,Male,Urban,ZIP38010,Masters,"Lacrosse Team Leader, Debate Club",6.0,66.6,64.6,0
+CAN0556,Joseph Johnson,Female,Rural,ZIP77000,High School,"General Member of Student Body, Volunteer",3.8,75.5,81.4,0
+CAN0557,Tyrone Miller,Male,Rural,ZIP72021,High School,"Lacrosse Team Leader, Debate Club",3.5,83.7,43.4,0
+CAN0558,Robert Miller,Male,Urban,ZIP32241,Masters,"Lacrosse Team Leader, Debate Club",3.7,58.0,75.0,0
+CAN0559,Karen Williams,Male,Suburban,ZIP96356,Bachelors,"Lacrosse Team Leader, Debate Club",6.2,92.4,78.9,1
+CAN0560,Jessica Jones,Female,Urban,ZIP21114,Bachelors,"General Member of Student Body, Volunteer",3.7,65.9,86.1,0
+CAN0561,Mary Johnson,Female,Suburban,ZIP47196,Bachelors,"General Member of Student Body, Volunteer",5.9,69.7,62.8,0
+CAN0562,Robert Garcia,Male,Suburban,ZIP77561,Bachelors,"Lacrosse Team Leader, Debate Club",11.2,58.8,76.0,1
+CAN0563,Malik Jones,Male,Suburban,ZIP97012,Bachelors,"Lacrosse Team Leader, Debate Club",7.6,33.6,63.9,0
+CAN0564,Thomas Davis,Female,Rural,ZIP92960,Bachelors,"Volleyball Captain, STEM Club",4.0,83.3,78.1,0
+CAN0565,Karen Miller,Male,Suburban,ZIP91167,Bachelors,"Lacrosse Team Leader, Debate Club",8.6,81.1,64.3,1
+CAN0566,David Davis,Male,Urban,ZIP53933,Masters,"General Member of Student Body, Volunteer",3.8,65.8,70.1,0
+CAN0567,Patricia Davis,Male,Suburban,ZIP22240,Bachelors,"General Member of Student Body, Volunteer",0.0,71.0,63.1,0
+CAN0568,John Garcia,Male,Urban,ZIP40784,Bachelors,"Lacrosse Team Leader, Debate Club",2.0,77.7,82.8,0
+CAN0569,Karen Miller,Male,Urban,ZIP98184,Masters,"Lacrosse Team Leader, Debate Club",0.0,46.6,85.3,0
+CAN0570,Joseph Smith,Male,Urban,ZIP50687,Bachelors,"Lacrosse Team Leader, Debate Club",3.9,62.1,72.2,0
+CAN0571,Robert Miller,Male,Urban,ZIP39444,Bachelors,"Lacrosse Team Leader, Debate Club",5.1,81.9,75.5,1
+CAN0572,Patricia Rodriguez,Male,Suburban,ZIP36100,Masters,"Lacrosse Team Leader, Debate Club",10.0,51.2,57.6,0
+CAN0573,Aaliyah Williams,Male,Urban,ZIP29313,Bachelors,"General Member of Student Body, Volunteer",6.0,74.4,71.4,1
+CAN0574,James Williams,Male,Suburban,ZIP13201,Masters,"General Member of Student Body, Volunteer",4.3,49.7,74.4,0
+CAN0575,Nia Martinez,Male,Suburban,ZIP16057,Bachelors,"General Member of Student Body, Volunteer",7.5,77.0,100.0,1
+CAN0576,Malik Davis,Female,Urban,ZIP42092,Masters,"Volleyball Captain, STEM Club",0.0,69.5,61.7,0
+CAN0577,John Williams,Male,Rural,ZIP72277,Bachelors,"Lacrosse Team Leader, Debate Club",5.7,45.8,92.6,0
+CAN0578,Robert Brown,Male,Urban,ZIP90120,Masters,"General Member of Student Body, Volunteer",7.3,87.5,87.0,1
+CAN0579,Trevon Garcia,Male,Urban,ZIP19545,Masters,"General Member of Student Body, Volunteer",0.6,59.0,78.4,0
+CAN0580,Patricia Miller,Male,Suburban,ZIP69692,Bachelors,"General Member of Student Body, Volunteer",8.4,57.8,96.1,1
+CAN0581,Sarah Smith,Male,Urban,ZIP64321,Masters,"Lacrosse Team Leader, Debate Club",6.0,73.0,79.5,1
+CAN0582,Karen Williams,Male,Urban,ZIP92544,Bachelors,"Lacrosse Team Leader, Debate Club",3.8,87.2,79.7,1
+CAN0583,Malik Davis,Female,Suburban,ZIP85454,Bachelors,"Volleyball Captain, STEM Club",6.9,54.8,74.4,0
+CAN0584,Patricia Garcia,Male,Suburban,ZIP35485,Masters,"General Member of Student Body, Volunteer",11.8,70.9,89.7,1
+CAN0585,Elizabeth Johnson,Female,Urban,ZIP60328,Bachelors,"General Member of Student Body, Volunteer",5.5,76.4,88.2,0
+CAN0586,Sarah Williams,Male,Rural,ZIP74799,Bachelors,"General Member of Student Body, Volunteer",5.7,80.4,67.5,0
+CAN0587,Susan Garcia,Male,Suburban,ZIP62383,Masters,"General Member of Student Body, Volunteer",3.6,72.6,59.2,0
+CAN0588,Jennifer Garcia,Male,Rural,ZIP41979,Bachelors,"President of Student Black Council, Math Tutor",2.5,64.5,72.6,0
+CAN0589,Jamal Jones,Male,Urban,ZIP29342,Masters,"General Member of Student Body, Volunteer",7.5,57.6,65.4,0
+CAN0590,Charles Johnson,Male,Suburban,ZIP95990,Masters,"General Member of Student Body, Volunteer",2.4,71.3,74.2,0
+CAN0591,James Williams,Female,Rural,ZIP10726,High School,"Volleyball Captain, STEM Club",5.2,53.9,89.8,0
+CAN0592,Barbara Rodriguez,Male,Suburban,ZIP23970,Masters,"General Member of Student Body, Volunteer",3.6,26.2,69.5,0
+CAN0593,Jennifer Rodriguez,Female,Suburban,ZIP65724,Bachelors,"Volleyball Captain, STEM Club",6.4,76.5,74.5,0
+CAN0594,Michael Jones,Female,Urban,ZIP38683,Bachelors,"General Member of Student Body, Volunteer",6.0,83.6,75.7,0
+CAN0595,Trevon Jones,Male,Urban,ZIP33053,Masters,"General Member of Student Body, Volunteer",8.1,34.6,85.2,0
+CAN0596,DeShawn Davis,Male,Urban,ZIP77889,Masters,"Lacrosse Team Leader, Debate Club",3.5,54.9,48.0,0
+CAN0597,Richard Martinez,Male,Urban,ZIP70889,Masters,"Lacrosse Team Leader, Debate Club",4.2,79.3,67.7,0
+CAN0598,Thomas Davis,Male,Rural,ZIP16582,Bachelors,"Lacrosse Team Leader, Debate Club",2.1,100.0,77.5,1
+CAN0599,Richard Johnson,Male,Urban,ZIP83060,Masters,"General Member of Student Body, Volunteer",3.7,70.3,89.4,1
+CAN0600,William Johnson,Male,Rural,ZIP42662,Bachelors,"President of Student Black Council, Math Tutor",6.1,59.1,69.1,0
+CAN0601,Elizabeth Williams,Male,Rural,ZIP25906,Bachelors,"General Member of Student Body, Volunteer",7.3,67.3,52.5,0
+CAN0602,Deja Davis,Male,Urban,ZIP69829,Masters,"General Member of Student Body, Volunteer",2.2,90.6,82.4,1
+CAN0603,Robert Garcia,Female,Urban,ZIP27477,Masters,"General Member of Student Body, Volunteer",7.6,60.3,67.4,0
+CAN0604,Malik Garcia,Female,Rural,ZIP70901,Bachelors,"Volleyball Captain, STEM Club",9.1,58.0,60.7,0
+CAN0605,DeShawn Johnson,Female,Rural,ZIP97500,Bachelors,"President of Student Black Council, Math Tutor",6.2,62.8,67.5,0
+CAN0606,Jessica Rodriguez,Male,Urban,ZIP79616,Masters,"Lacrosse Team Leader, Debate Club",10.6,55.7,72.8,1
+CAN0607,Thomas Jones,Male,Urban,ZIP83259,Bachelors,"Lacrosse Team Leader, Debate Club",2.7,71.8,67.7,0
+CAN0608,Nia Williams,Male,Suburban,ZIP88047,Masters,"General Member of Student Body, Volunteer",1.3,94.4,48.5,0
+CAN0609,DeShawn Williams,Male,Suburban,ZIP51588,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,74.8,85.8,0
+CAN0610,Aaliyah Garcia,Male,Urban,ZIP68008,Masters,"General Member of Student Body, Volunteer",9.5,66.2,90.3,1
+CAN0611,Susan Brown,Female,Suburban,ZIP90301,Masters,"Volleyball Captain, STEM Club",7.0,65.6,82.8,0
+CAN0612,Michael Brown,Female,Urban,ZIP76162,Masters,"Volleyball Captain, STEM Club",4.8,46.6,61.3,0
+CAN0613,Aaliyah Williams,Male,Urban,ZIP65933,Bachelors,"Lacrosse Team Leader, Debate Club",5.8,83.2,72.6,1
+CAN0614,Charles Davis,Male,Urban,ZIP81810,Bachelors,"General Member of Student Body, Volunteer",1.6,68.8,74.9,0
+CAN0615,James Garcia,Male,Urban,ZIP68446,Masters,"Lacrosse Team Leader, Debate Club",12.3,67.3,82.2,1
+CAN0616,Jessica Martinez,Male,Urban,ZIP30861,Masters,"Lacrosse Team Leader, Debate Club",5.4,100.0,83.0,1
+CAN0617,Patricia Davis,Male,Urban,ZIP72216,Masters,"General Member of Student Body, Volunteer",5.3,74.5,66.2,0
+CAN0618,Aaliyah Rodriguez,Male,Urban,ZIP68991,Bachelors,"General Member of Student Body, Volunteer",7.2,58.7,76.0,0
+CAN0619,William Martinez,Male,Urban,ZIP43972,Masters,"General Member of Student Body, Volunteer",6.4,63.6,80.5,0
+CAN0620,Deja Johnson,Female,Urban,ZIP42406,Masters,"President of Student Black Council, Math Tutor",5.7,87.2,92.5,1
+CAN0621,Robert Jones,Male,Rural,ZIP93579,Bachelors,"Lacrosse Team Leader, Debate Club",2.6,71.7,83.5,0
+CAN0622,Jennifer Davis,Female,Urban,ZIP46347,Bachelors,"General Member of Student Body, Volunteer",6.4,48.4,84.5,0
+CAN0623,Susan Miller,Male,Urban,ZIP78327,Bachelors,"Lacrosse Team Leader, Debate Club",10.6,83.8,76.0,1
+CAN0624,Trevon Miller,Male,Suburban,ZIP73517,Bachelors,"General Member of Student Body, Volunteer",9.0,60.0,91.9,1
+CAN0625,Precious Martinez,Male,Rural,ZIP92149,Bachelors,"Lacrosse Team Leader, Debate Club",9.8,98.1,79.9,1
+CAN0626,Robert Williams,Male,Urban,ZIP41358,Bachelors,"Lacrosse Team Leader, Debate Club",3.5,86.2,64.7,0
+CAN0627,Mary Johnson,Male,Suburban,ZIP45992,Bachelors,"Lacrosse Team Leader, Debate Club",2.0,63.3,91.8,0
+CAN0628,Elizabeth Davis,Female,Suburban,ZIP67654,Bachelors,"Volleyball Captain, STEM Club",4.6,89.2,83.4,1
+CAN0629,Malik Rodriguez,Female,Suburban,ZIP20155,Masters,"Volleyball Captain, STEM Club",5.2,71.0,69.7,0
+CAN0630,Patricia Williams,Male,Urban,ZIP47450,Masters,"Lacrosse Team Leader, Debate Club",8.3,82.8,69.2,1
+CAN0631,Deja Rodriguez,Male,Suburban,ZIP40735,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,77.3,78.6,0
+CAN0632,Jamal Martinez,Female,Urban,ZIP45614,Masters,"General Member of Student Body, Volunteer",9.6,57.3,80.6,0
+CAN0633,David Williams,Male,Suburban,ZIP54020,Masters,"President of Student Black Council, Math Tutor",4.5,60.3,77.4,0
+CAN0634,Linda Rodriguez,Male,Suburban,ZIP51904,Masters,"General Member of Student Body, Volunteer",3.7,85.4,78.7,1
+CAN0635,Ebony Smith,Male,Urban,ZIP80798,Bachelors,"General Member of Student Body, Volunteer",2.0,65.0,95.4,0
+CAN0636,Precious Johnson,Female,Rural,ZIP20561,Bachelors,"Volleyball Captain, STEM Club",0.0,63.9,87.9,0
+CAN0637,Susan Williams,Female,Urban,ZIP28136,Masters,"Volleyball Captain, STEM Club",7.5,55.7,77.3,0
+CAN0638,Thomas Williams,Male,Rural,ZIP29769,Bachelors,"Lacrosse Team Leader, Debate Club",5.2,76.4,86.3,0
+CAN0639,David Garcia,Female,Urban,ZIP40311,Masters,"Volleyball Captain, STEM Club",1.1,100.0,62.6,0
+CAN0640,Ebony Brown,Female,Urban,ZIP60205,Masters,"Volleyball Captain, STEM Club",1.1,54.0,79.8,0
+CAN0641,Patricia Rodriguez,Male,Urban,ZIP30028,Masters,"General Member of Student Body, Volunteer",4.0,70.4,96.7,1
+CAN0642,Deja Jones,Male,Rural,ZIP38043,Bachelors,"General Member of Student Body, Volunteer",10.0,91.2,72.4,1
+CAN0643,Nia Johnson,Male,Urban,ZIP18418,Masters,"General Member of Student Body, Volunteer",4.2,68.8,64.8,0
+CAN0644,Joseph Brown,Female,Urban,ZIP64377,Masters,"General Member of Student Body, Volunteer",0.5,76.8,67.2,0
+CAN0645,Jamal Rodriguez,Male,Urban,ZIP63424,Bachelors,"General Member of Student Body, Volunteer",4.3,54.1,61.9,0
+CAN0646,Joseph Williams,Female,Suburban,ZIP53369,Bachelors,"General Member of Student Body, Volunteer",4.2,76.4,65.6,0
+CAN0647,Jamal Jones,Male,Suburban,ZIP81121,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,67.2,70.6,0
+CAN0648,Karen Rodriguez,Female,Urban,ZIP71069,Masters,"Volleyball Captain, STEM Club",4.8,84.8,58.1,0
+CAN0649,Robert Rodriguez,Male,Urban,ZIP64496,Masters,"Lacrosse Team Leader, Debate Club",4.3,87.8,75.2,1
+CAN0650,Jamal Williams,Male,Urban,ZIP18161,Bachelors,"Lacrosse Team Leader, Debate Club",7.1,100.0,85.8,1
+CAN0651,Sarah Martinez,Female,Urban,ZIP37110,Bachelors,"General Member of Student Body, Volunteer",10.5,78.7,64.1,0
+CAN0652,William Williams,Female,Urban,ZIP65069,Bachelors,"Volleyball Captain, STEM Club",8.4,74.9,93.2,1
+CAN0653,Malik Martinez,Female,Suburban,ZIP61049,Bachelors,"Volleyball Captain, STEM Club",4.2,72.9,81.1,0
+CAN0654,Tyrone Martinez,Male,Urban,ZIP86556,Bachelors,"General Member of Student Body, Volunteer",1.7,64.7,87.4,0
+CAN0655,Mary Martinez,Female,Urban,ZIP12560,Bachelors,"General Member of Student Body, Volunteer",12.7,75.1,67.1,1
+CAN0656,John Smith,Male,Urban,ZIP85456,Masters,"Lacrosse Team Leader, Debate Club",5.2,65.6,85.3,1
+CAN0657,Robert Smith,Male,Rural,ZIP59857,Bachelors,"Lacrosse Team Leader, Debate Club",5.0,72.5,61.9,0
+CAN0658,Jamal Martinez,Male,Rural,ZIP72518,Bachelors,"General Member of Student Body, Volunteer",4.9,89.8,85.7,1
+CAN0659,Joseph Brown,Male,Rural,ZIP10772,Bachelors,"Lacrosse Team Leader, Debate Club",5.6,54.9,77.1,0
+CAN0660,Trevon Martinez,Male,Urban,ZIP56105,Masters,"Lacrosse Team Leader, Debate Club",4.6,87.1,81.6,1
+CAN0661,Linda Martinez,Female,Urban,ZIP49139,Masters,"Volleyball Captain, STEM Club",3.3,89.8,60.9,0
+CAN0662,Jamal Smith,Male,Urban,ZIP61116,Bachelors,"Lacrosse Team Leader, Debate Club",3.4,68.2,64.3,0
+CAN0663,Barbara Rodriguez,Female,Urban,ZIP64921,Masters,"General Member of Student Body, Volunteer",4.9,38.2,82.2,0
+CAN0664,Thomas Jones,Male,Suburban,ZIP80545,Bachelors,"Lacrosse Team Leader, Debate Club",3.4,60.9,63.6,0
+CAN0665,Barbara Brown,Male,Suburban,ZIP81582,Masters,"President of Student Black Council, Math Tutor",2.9,89.5,80.6,1
+CAN0666,Aaliyah Miller,Male,Rural,ZIP89069,Bachelors,"President of Student Black Council, Math Tutor",5.3,69.7,58.6,0
+CAN0667,Thomas Davis,Female,Rural,ZIP38906,High School,"Volleyball Captain, STEM Club",4.2,55.0,85.2,0
+CAN0668,Robert Smith,Female,Urban,ZIP73993,Masters,"President of Student Black Council, Math Tutor",9.5,62.4,60.2,0
+CAN0669,David Davis,Female,Suburban,ZIP38760,Bachelors,"General Member of Student Body, Volunteer",0.0,82.6,81.6,0
+CAN0670,Linda Davis,Female,Urban,ZIP45774,Masters,"Volleyball Captain, STEM Club",8.3,78.2,82.5,1
+CAN0671,Elizabeth Brown,Male,Urban,ZIP67125,Masters,"General Member of Student Body, Volunteer",8.7,66.4,66.6,1
+CAN0672,Mary Martinez,Male,Suburban,ZIP73654,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,64.5,82.0,0
+CAN0673,William Garcia,Female,Urban,ZIP13804,Masters,"Volleyball Captain, STEM Club",4.0,64.1,78.1,0
+CAN0674,Nia Garcia,Male,Urban,ZIP60968,Masters,"Lacrosse Team Leader, Debate Club",3.9,56.2,68.5,0
+CAN0675,Tyrone Garcia,Male,Urban,ZIP54057,Masters,"General Member of Student Body, Volunteer",0.8,94.2,62.9,0
+CAN0676,Jennifer Williams,Male,Suburban,ZIP97670,Bachelors,"General Member of Student Body, Volunteer",2.7,65.2,51.4,0
+CAN0677,Trevon Garcia,Male,Suburban,ZIP99016,Masters,"Lacrosse Team Leader, Debate Club",1.7,88.3,79.2,1
+CAN0678,Susan Rodriguez,Male,Urban,ZIP62994,Masters,"General Member of Student Body, Volunteer",10.3,92.8,56.2,1
+CAN0679,Michael Garcia,Male,Rural,ZIP31632,Bachelors,"Lacrosse Team Leader, Debate Club",7.8,85.0,76.1,1
+CAN0680,Charles Davis,Male,Urban,ZIP71261,Masters,"General Member of Student Body, Volunteer",8.8,63.5,71.8,1
+CAN0681,Michael Jones,Male,Urban,ZIP26728,Masters,"Lacrosse Team Leader, Debate Club",7.2,76.1,83.1,1
+CAN0682,Elizabeth Brown,Male,Suburban,ZIP91560,Bachelors,"Lacrosse Team Leader, Debate Club",1.6,69.6,71.4,0
+CAN0683,William Johnson,Male,Suburban,ZIP80008,Bachelors,"Lacrosse Team Leader, Debate Club",3.4,56.4,71.0,0
+CAN0684,John Jones,Female,Rural,ZIP13534,High School,"Volleyball Captain, STEM Club",6.5,74.9,83.8,0
+CAN0685,Jennifer Martinez,Male,Urban,ZIP61645,Bachelors,"Lacrosse Team Leader, Debate Club",1.3,52.3,79.0,0
+CAN0686,Linda Brown,Male,Suburban,ZIP87580,Bachelors,"General Member of Student Body, Volunteer",7.1,87.8,78.8,1
+CAN0687,Nia Williams,Female,Suburban,ZIP83975,Bachelors,"General Member of Student Body, Volunteer",4.3,63.0,80.6,0
+CAN0688,Precious Garcia,Male,Rural,ZIP96900,Bachelors,"Lacrosse Team Leader, Debate Club",3.9,73.0,56.6,0
+CAN0689,Ebony Martinez,Male,Urban,ZIP13552,Bachelors,"General Member of Student Body, Volunteer",7.1,74.2,84.1,1
+CAN0690,Tyrone Garcia,Female,Suburban,ZIP21003,Bachelors,"Volleyball Captain, STEM Club",6.3,66.1,82.3,0
+CAN0691,Richard Williams,Male,Suburban,ZIP94246,Bachelors,"Lacrosse Team Leader, Debate Club",3.9,78.8,62.8,0
+CAN0692,Barbara Rodriguez,Female,Urban,ZIP66179,Masters,"Volleyball Captain, STEM Club",8.5,62.9,72.1,0
+CAN0693,Elizabeth Davis,Female,Urban,ZIP27786,Masters,"President of Student Black Council, Math Tutor",1.8,83.1,74.5,0
+CAN0694,Deja Jones,Female,Urban,ZIP70515,Masters,"Volleyball Captain, STEM Club",6.8,49.8,73.4,0
+CAN0695,Barbara Smith,Male,Suburban,ZIP33819,Bachelors,"General Member of Student Body, Volunteer",6.8,71.9,79.0,1
+CAN0696,Robert Miller,Male,Rural,ZIP16590,Bachelors,"Lacrosse Team Leader, Debate Club",4.1,99.1,92.2,1
+CAN0697,Susan Davis,Male,Suburban,ZIP44099,Bachelors,"Lacrosse Team Leader, Debate Club",6.0,55.0,88.0,0
+CAN0698,Charles Brown,Male,Suburban,ZIP59689,Masters,"General Member of Student Body, Volunteer",1.2,59.8,59.3,0
+CAN0699,Sarah Garcia,Male,Suburban,ZIP52906,Bachelors,"Lacrosse Team Leader, Debate Club",7.8,77.7,82.5,1
+CAN0700,John Smith,Male,Urban,ZIP37742,Bachelors,"President of Student Black Council, Math Tutor",4.4,72.7,90.9,1
+CAN0701,Thomas Davis,Male,Urban,ZIP69598,Bachelors,"General Member of Student Body, Volunteer",3.4,75.3,79.6,0
+CAN0702,Karen Davis,Male,Urban,ZIP52840,Masters,"Lacrosse Team Leader, Debate Club",8.1,77.3,88.1,1
+CAN0703,Thomas Rodriguez,Male,Urban,ZIP54236,Masters,"Lacrosse Team Leader, Debate Club",2.9,79.5,99.1,1
+CAN0704,James Johnson,Male,Urban,ZIP59692,Masters,"Lacrosse Team Leader, Debate Club",0.8,86.6,87.3,1
+CAN0705,Linda Williams,Female,Suburban,ZIP46471,Bachelors,"General Member of Student Body, Volunteer",0.3,76.1,78.0,0
+CAN0706,Deja Jones,Male,Urban,ZIP65255,Masters,"General Member of Student Body, Volunteer",6.8,66.4,87.5,1
+CAN0707,Tyrone Garcia,Male,Urban,ZIP43065,Bachelors,"Lacrosse Team Leader, Debate Club",1.2,80.1,76.7,0
+CAN0708,Trevon Miller,Female,Urban,ZIP20735,Bachelors,"Volleyball Captain, STEM Club",10.3,98.5,75.3,1
+CAN0709,Patricia Smith,Male,Urban,ZIP71644,Masters,"General Member of Student Body, Volunteer",0.0,68.0,70.8,0
+CAN0710,Jennifer Smith,Male,Rural,ZIP12540,Bachelors,"General Member of Student Body, Volunteer",10.1,55.4,93.8,1
+CAN0711,Sarah Rodriguez,Male,Rural,ZIP80702,Bachelors,"General Member of Student Body, Volunteer",5.6,86.6,65.2,0
+CAN0712,Richard Garcia,Female,Suburban,ZIP16826,Bachelors,"General Member of Student Body, Volunteer",4.7,68.2,93.4,0
+CAN0713,Jessica Jones,Male,Urban,ZIP55870,Bachelors,"Lacrosse Team Leader, Debate Club",3.4,37.4,81.0,0
+CAN0714,Robert Miller,Male,Suburban,ZIP39389,Bachelors,"Lacrosse Team Leader, Debate Club",6.2,82.7,58.2,1
+CAN0715,Susan Davis,Male,Rural,ZIP95215,High School,"Lacrosse Team Leader, Debate Club",4.9,62.0,79.4,0
+CAN0716,Trevon Rodriguez,Female,Suburban,ZIP18993,Masters,"General Member of Student Body, Volunteer",8.3,68.6,49.8,0
+CAN0717,Joseph Martinez,Male,Urban,ZIP95426,Bachelors,"Lacrosse Team Leader, Debate Club",5.3,75.0,82.5,1
+CAN0718,Malik Martinez,Male,Suburban,ZIP15276,Bachelors,"Lacrosse Team Leader, Debate Club",5.5,72.9,85.6,1
+CAN0719,Michael Williams,Female,Rural,ZIP14067,Bachelors,"Volleyball Captain, STEM Club",3.9,80.6,67.9,0
+CAN0720,Michael Miller,Male,Suburban,ZIP42411,Bachelors,"Lacrosse Team Leader, Debate Club",4.8,63.5,76.5,0
+CAN0721,Patricia Garcia,Female,Suburban,ZIP36130,Bachelors,"Volleyball Captain, STEM Club",5.9,77.7,98.4,1
+CAN0722,Jessica Garcia,Male,Urban,ZIP12671,Bachelors,"General Member of Student Body, Volunteer",0.0,66.1,68.9,0
+CAN0723,Trevon Williams,Female,Suburban,ZIP91439,Bachelors,"General Member of Student Body, Volunteer",1.0,81.1,62.3,0
+CAN0724,Richard Martinez,Male,Urban,ZIP29973,Masters,"Lacrosse Team Leader, Debate Club",7.2,79.2,92.8,1
+CAN0725,Susan Miller,Female,Suburban,ZIP41266,Masters,"Volleyball Captain, STEM Club",5.5,56.0,98.6,0
+CAN0726,Susan Smith,Female,Urban,ZIP26544,Masters,"Volleyball Captain, STEM Club",4.4,86.3,75.0,0
+CAN0727,John Smith,Male,Urban,ZIP72070,Masters,"Lacrosse Team Leader, Debate Club",5.1,62.0,87.1,0
+CAN0728,William Garcia,Male,Urban,ZIP97747,Bachelors,"General Member of Student Body, Volunteer",6.0,82.1,91.1,1
+CAN0729,Aaliyah Davis,Male,Suburban,ZIP24993,Masters,"General Member of Student Body, Volunteer",3.4,75.5,66.1,0
+CAN0730,Susan Davis,Male,Urban,ZIP83920,Masters,"General Member of Student Body, Volunteer",2.7,97.6,69.2,1
+CAN0731,William Martinez,Male,Suburban,ZIP38569,Bachelors,"Lacrosse Team Leader, Debate Club",5.6,66.6,89.8,1
+CAN0732,Deja Rodriguez,Male,Suburban,ZIP70952,Masters,"Lacrosse Team Leader, Debate Club",2.1,64.8,95.2,0
+CAN0733,William Garcia,Male,Urban,ZIP43586,Bachelors,"Lacrosse Team Leader, Debate Club",6.2,69.7,81.8,1
+CAN0734,Ebony Martinez,Male,Urban,ZIP58351,Masters,"President of Student Black Council, Math Tutor",0.0,65.5,64.4,0
+CAN0735,Mary Williams,Male,Urban,ZIP31992,Masters,"Lacrosse Team Leader, Debate Club",8.1,82.0,98.8,1
+CAN0736,Jennifer Martinez,Female,Rural,ZIP89415,Bachelors,"General Member of Student Body, Volunteer",6.4,45.8,68.6,0
+CAN0737,Tyrone Jones,Male,Suburban,ZIP89593,Bachelors,"General Member of Student Body, Volunteer",5.8,54.2,71.0,0
+CAN0738,Sarah Garcia,Male,Urban,ZIP25012,Bachelors,"General Member of Student Body, Volunteer",7.9,54.0,79.1,0
+CAN0739,Susan Rodriguez,Male,Urban,ZIP31465,Masters,"General Member of Student Body, Volunteer",10.0,84.3,93.6,1
+CAN0740,Jessica Davis,Male,Suburban,ZIP50768,Bachelors,"President of Student Black Council, Math Tutor",8.0,95.7,85.2,1
+CAN0741,DeShawn Martinez,Male,Rural,ZIP24168,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,68.4,80.0,0
+CAN0742,Thomas Davis,Male,Rural,ZIP85849,Bachelors,"Lacrosse Team Leader, Debate Club",1.2,67.5,80.6,0
+CAN0743,Precious Smith,Male,Suburban,ZIP13365,Masters,"General Member of Student Body, Volunteer",3.1,71.1,75.5,0
+CAN0744,Patricia Garcia,Female,Urban,ZIP50888,Bachelors,"Volleyball Captain, STEM Club",5.1,87.4,81.7,0
+CAN0745,Malik Johnson,Male,Urban,ZIP85470,Bachelors,"Lacrosse Team Leader, Debate Club",6.6,56.1,44.6,0
+CAN0746,Linda Martinez,Female,Urban,ZIP98781,Masters,"Volleyball Captain, STEM Club",2.8,73.6,71.4,0
+CAN0747,Thomas Smith,Female,Urban,ZIP59192,Bachelors,"Volleyball Captain, STEM Club",5.6,84.6,77.9,0
+CAN0748,Karen Davis,Female,Urban,ZIP61990,Masters,"President of Student Black Council, Math Tutor",2.7,77.5,61.2,0
+CAN0749,Joseph Martinez,Female,Urban,ZIP35995,Masters,"General Member of Student Body, Volunteer",3.2,72.8,79.6,0
+CAN0750,Sarah Brown,Male,Urban,ZIP19961,Masters,"General Member of Student Body, Volunteer",0.8,85.0,72.5,0
+CAN0751,Tyrone Smith,Male,Rural,ZIP87607,High School,"Lacrosse Team Leader, Debate Club",2.2,29.5,96.1,0
+CAN0752,Sarah Davis,Female,Suburban,ZIP92213,Bachelors,"General Member of Student Body, Volunteer",0.9,80.2,93.9,0
+CAN0753,David Rodriguez,Male,Rural,ZIP41830,Bachelors,"General Member of Student Body, Volunteer",2.1,60.2,69.4,0
+CAN0754,Jamal Martinez,Male,Suburban,ZIP23356,Masters,"Lacrosse Team Leader, Debate Club",8.2,42.5,73.2,0
+CAN0755,Trevon Miller,Female,Urban,ZIP49529,Masters,"General Member of Student Body, Volunteer",2.2,77.7,74.1,0
+CAN0756,William Brown,Female,Suburban,ZIP99687,Bachelors,"Volleyball Captain, STEM Club",12.9,90.6,69.6,1
+CAN0757,John Martinez,Female,Urban,ZIP88697,Bachelors,"General Member of Student Body, Volunteer",6.5,67.9,77.3,0
+CAN0758,DeShawn Johnson,Female,Suburban,ZIP25866,Bachelors,"Volleyball Captain, STEM Club",5.6,84.3,65.9,0
+CAN0759,Richard Smith,Female,Urban,ZIP84177,Bachelors,"Volleyball Captain, STEM Club",2.4,94.2,61.4,0
+CAN0760,Elizabeth Garcia,Male,Rural,ZIP15383,High School,"General Member of Student Body, Volunteer",7.1,89.7,82.5,1
+CAN0761,Linda Williams,Female,Urban,ZIP55508,Masters,"Volleyball Captain, STEM Club",3.3,94.6,82.6,1
+CAN0762,Linda Brown,Male,Urban,ZIP79827,Masters,"General Member of Student Body, Volunteer",5.4,81.1,65.3,1
+CAN0763,Linda Rodriguez,Male,Rural,ZIP66148,Bachelors,"General Member of Student Body, Volunteer",12.7,71.1,85.7,1
+CAN0764,Trevon Martinez,Female,Urban,ZIP96706,Masters,"Volleyball Captain, STEM Club",4.7,46.0,67.4,0
+CAN0765,Ebony Davis,Male,Suburban,ZIP58571,Masters,"President of Student Black Council, Math Tutor",8.4,66.3,78.0,1
+CAN0766,Nia Smith,Male,Suburban,ZIP19038,Bachelors,"Lacrosse Team Leader, Debate Club",2.9,57.4,84.8,0
+CAN0767,DeShawn Williams,Male,Rural,ZIP76317,Bachelors,"General Member of Student Body, Volunteer",4.9,100.0,74.6,1
+CAN0768,Susan Brown,Female,Rural,ZIP94874,Bachelors,"Volleyball Captain, STEM Club",10.3,67.4,80.5,0
+CAN0769,Jessica Garcia,Male,Rural,ZIP54725,Bachelors,"General Member of Student Body, Volunteer",3.1,71.8,68.8,0
+CAN0770,Malik Davis,Female,Urban,ZIP11658,Bachelors,"General Member of Student Body, Volunteer",10.4,78.3,72.6,1
+CAN0771,Susan Miller,Male,Rural,ZIP65057,Bachelors,"Lacrosse Team Leader, Debate Club",7.1,70.7,72.5,0
+CAN0772,Mary Williams,Female,Suburban,ZIP74251,Bachelors,"General Member of Student Body, Volunteer",3.3,95.4,66.0,0
+CAN0773,Elizabeth Rodriguez,Female,Suburban,ZIP23833,Bachelors,"General Member of Student Body, Volunteer",6.9,60.7,72.9,0
+CAN0774,Mary Rodriguez,Male,Urban,ZIP66822,Bachelors,"Lacrosse Team Leader, Debate Club",7.9,72.9,56.4,0
+CAN0775,Patricia Jones,Male,Suburban,ZIP57472,Bachelors,"General Member of Student Body, Volunteer",6.9,58.9,69.1,0
+CAN0776,Karen Davis,Male,Rural,ZIP93307,High School,"Lacrosse Team Leader, Debate Club",0.3,50.2,71.6,0
+CAN0777,Richard Brown,Female,Rural,ZIP70258,Bachelors,"Volleyball Captain, STEM Club",2.8,60.8,71.9,0
+CAN0778,Joseph Rodriguez,Female,Urban,ZIP30052,Masters,"Volleyball Captain, STEM Club",4.3,69.4,72.1,0
+CAN0779,Thomas Brown,Female,Urban,ZIP67080,Masters,"General Member of Student Body, Volunteer",4.8,63.6,74.3,0
+CAN0780,Thomas Jones,Male,Urban,ZIP33086,Masters,"President of Student Black Council, Math Tutor",6.9,59.6,80.8,0
+CAN0781,DeShawn Brown,Female,Rural,ZIP78386,Bachelors,"General Member of Student Body, Volunteer",5.5,48.9,85.5,0
+CAN0782,DeShawn Davis,Female,Suburban,ZIP95256,Masters,"Volleyball Captain, STEM Club",1.0,68.8,67.2,0
+CAN0783,Mary Davis,Female,Urban,ZIP45400,Masters,"General Member of Student Body, Volunteer",6.1,47.4,60.6,0
+CAN0784,Patricia Rodriguez,Female,Urban,ZIP90728,Masters,"President of Student Black Council, Math Tutor",6.8,81.4,62.5,0
+CAN0785,Ebony Jones,Male,Urban,ZIP80539,Bachelors,"Lacrosse Team Leader, Debate Club",6.7,71.2,69.2,0
+CAN0786,Thomas Johnson,Male,Urban,ZIP73372,Masters,"General Member of Student Body, Volunteer",8.2,48.1,70.8,0
+CAN0787,Sarah Rodriguez,Female,Rural,ZIP70931,Bachelors,"Volleyball Captain, STEM Club",7.5,65.4,65.8,0
+CAN0788,Jennifer Miller,Female,Suburban,ZIP67091,Bachelors,"General Member of Student Body, Volunteer",6.4,58.7,59.4,0
+CAN0789,Precious Garcia,Male,Urban,ZIP87656,Masters,"General Member of Student Body, Volunteer",4.8,74.8,69.5,0
+CAN0790,Trevon Williams,Male,Suburban,ZIP45179,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,90.1,77.2,0
+CAN0791,Thomas Smith,Male,Urban,ZIP52245,Bachelors,"Lacrosse Team Leader, Debate Club",6.3,41.9,82.1,0
+CAN0792,Thomas Johnson,Male,Rural,ZIP42177,Bachelors,"General Member of Student Body, Volunteer",5.6,71.7,68.3,0
+CAN0793,Patricia Davis,Male,Urban,ZIP21359,Masters,"Lacrosse Team Leader, Debate Club",5.8,67.6,70.0,0
+CAN0794,Jamal Jones,Female,Urban,ZIP46559,Masters,"Volleyball Captain, STEM Club",1.2,80.1,63.9,0
+CAN0795,Tyrone Davis,Female,Urban,ZIP69087,Masters,"General Member of Student Body, Volunteer",1.8,73.2,74.6,0
+CAN0796,Richard Brown,Male,Suburban,ZIP41963,Bachelors,"General Member of Student Body, Volunteer",8.2,58.7,64.8,0
+CAN0797,Precious Rodriguez,Male,Suburban,ZIP70910,Masters,"Lacrosse Team Leader, Debate Club",4.9,65.2,81.9,0
+CAN0798,Joseph Rodriguez,Male,Suburban,ZIP84691,Masters,"Lacrosse Team Leader, Debate Club",7.0,58.1,53.6,0
+CAN0799,DeShawn Jones,Male,Urban,ZIP89997,Masters,"General Member of Student Body, Volunteer",5.1,86.1,70.7,1
+CAN0800,William Johnson,Female,Urban,ZIP97580,Bachelors,"General Member of Student Body, Volunteer",5.1,70.3,78.6,0
+CAN0801,Karen Martinez,Female,Urban,ZIP59674,Bachelors,"Volleyball Captain, STEM Club",7.8,98.5,77.2,1
+CAN0802,Charles Brown,Male,Suburban,ZIP54092,Bachelors,"Lacrosse Team Leader, Debate Club",3.5,69.1,100.0,1
+CAN0803,John Rodriguez,Female,Urban,ZIP13761,Bachelors,"Volleyball Captain, STEM Club",5.3,59.4,79.2,0
+CAN0804,Charles Brown,Female,Suburban,ZIP74789,Bachelors,"General Member of Student Body, Volunteer",3.6,47.3,63.0,0
+CAN0805,John Johnson,Female,Rural,ZIP52600,Bachelors,"General Member of Student Body, Volunteer",3.7,43.0,73.9,0
+CAN0806,Linda Garcia,Male,Rural,ZIP33834,Bachelors,"General Member of Student Body, Volunteer",4.1,46.2,53.7,0
+CAN0807,DeShawn Davis,Female,Urban,ZIP73904,Bachelors,"Volleyball Captain, STEM Club",5.7,74.0,74.0,0
+CAN0808,Michael Williams,Male,Urban,ZIP37802,Masters,"Lacrosse Team Leader, Debate Club",3.6,77.6,65.0,0
+CAN0809,James Rodriguez,Male,Urban,ZIP56507,Masters,"Lacrosse Team Leader, Debate Club",8.8,46.3,86.0,0
+CAN0810,Ebony Williams,Male,Suburban,ZIP43862,Masters,"Lacrosse Team Leader, Debate Club",2.3,83.4,68.4,0
+CAN0811,Linda Davis,Male,Rural,ZIP54608,Bachelors,"General Member of Student Body, Volunteer",4.4,62.8,73.6,0
+CAN0812,Barbara Brown,Male,Urban,ZIP46655,Masters,"Lacrosse Team Leader, Debate Club",3.7,72.2,67.4,0
+CAN0813,Trevon Jones,Male,Urban,ZIP88139,Bachelors,"General Member of Student Body, Volunteer",9.3,94.2,95.9,1
+CAN0814,Mary Jones,Male,Rural,ZIP46211,Bachelors,"General Member of Student Body, Volunteer",5.6,83.5,71.1,0
+CAN0815,Jamal Smith,Female,Rural,ZIP82848,High School,"General Member of Student Body, Volunteer",8.1,66.0,97.0,0
+CAN0816,Ebony Johnson,Female,Urban,ZIP11330,Bachelors,"Volleyball Captain, STEM Club",0.5,56.6,84.8,0
+CAN0817,Jamal Martinez,Male,Suburban,ZIP77715,Masters,"General Member of Student Body, Volunteer",5.8,37.7,80.8,0
+CAN0818,Charles Rodriguez,Female,Urban,ZIP35042,Masters,"Volleyball Captain, STEM Club",7.7,59.2,79.4,0
+CAN0819,Tyrone Smith,Female,Urban,ZIP21221,Masters,"General Member of Student Body, Volunteer",5.2,66.8,79.7,0
+CAN0820,Ebony Williams,Female,Rural,ZIP41635,Bachelors,"Volleyball Captain, STEM Club",8.2,55.2,51.9,0
+CAN0821,Linda Williams,Male,Rural,ZIP63271,Bachelors,"President of Student Black Council, Math Tutor",3.4,68.0,71.7,0
+CAN0822,Ebony Smith,Female,Suburban,ZIP74038,Bachelors,"Volleyball Captain, STEM Club",9.2,71.2,85.1,1
+CAN0823,Precious Miller,Female,Urban,ZIP82768,Bachelors,"Volleyball Captain, STEM Club",11.9,66.6,74.4,0
+CAN0824,Aaliyah Davis,Female,Rural,ZIP41499,Bachelors,"General Member of Student Body, Volunteer",3.9,60.2,58.1,0
+CAN0825,David Jones,Male,Urban,ZIP72402,Bachelors,"General Member of Student Body, Volunteer",3.7,72.5,74.4,0
+CAN0826,Deja Smith,Male,Urban,ZIP94659,Masters,"Lacrosse Team Leader, Debate Club",9.4,76.6,95.4,1
+CAN0827,James Jones,Female,Suburban,ZIP74332,Masters,"Volleyball Captain, STEM Club",9.7,53.6,90.0,0
+CAN0828,Sarah Martinez,Male,Urban,ZIP68743,Masters,"Lacrosse Team Leader, Debate Club",3.4,91.2,74.3,1
+CAN0829,Michael Garcia,Male,Suburban,ZIP12260,Bachelors,"Lacrosse Team Leader, Debate Club",3.7,68.5,86.4,0
+CAN0830,Thomas Davis,Male,Suburban,ZIP22196,Bachelors,"Lacrosse Team Leader, Debate Club",4.2,70.3,70.6,0
+CAN0831,Jamal Rodriguez,Female,Urban,ZIP48566,Masters,"Volleyball Captain, STEM Club",1.0,80.6,54.6,0
+CAN0832,Susan Davis,Female,Urban,ZIP39045,Masters,"General Member of Student Body, Volunteer",2.2,73.5,63.9,0
+CAN0833,Deja Williams,Male,Urban,ZIP63005,Bachelors,"General Member of Student Body, Volunteer",2.0,84.3,93.8,1
+CAN0834,Nia Rodriguez,Female,Urban,ZIP41890,Masters,"Volleyball Captain, STEM Club",2.7,74.3,71.7,0
+CAN0835,Elizabeth Jones,Male,Suburban,ZIP50135,Bachelors,"General Member of Student Body, Volunteer",4.9,60.8,72.1,0
+CAN0836,Richard Johnson,Female,Rural,ZIP97026,Bachelors,"Volleyball Captain, STEM Club",5.7,75.4,71.4,0
+CAN0837,Mary Williams,Female,Urban,ZIP86225,Bachelors,"Volleyball Captain, STEM Club",9.7,52.8,97.8,0
+CAN0838,Tyrone Davis,Female,Urban,ZIP58368,Bachelors,"General Member of Student Body, Volunteer",2.0,71.6,94.5,0
+CAN0839,Jamal Jones,Female,Suburban,ZIP72031,Masters,"President of Student Black Council, Math Tutor",8.0,69.5,100.0,1
+CAN0840,DeShawn Williams,Male,Rural,ZIP82544,Bachelors,"President of Student Black Council, Math Tutor",4.4,66.9,73.1,0
+CAN0841,James Garcia,Female,Urban,ZIP79588,Bachelors,"Volleyball Captain, STEM Club",4.9,68.1,78.5,0
+CAN0842,Aaliyah Jones,Male,Urban,ZIP55056,Masters,"Lacrosse Team Leader, Debate Club",7.0,41.8,56.8,0
+CAN0843,Sarah Brown,Female,Suburban,ZIP65771,Bachelors,"General Member of Student Body, Volunteer",1.6,61.8,92.7,0
+CAN0844,David Martinez,Female,Urban,ZIP82140,Masters,"General Member of Student Body, Volunteer",6.1,71.4,61.0,0
+CAN0845,Nia Miller,Female,Urban,ZIP53357,Bachelors,"Volleyball Captain, STEM Club",5.5,72.4,77.6,0
+CAN0846,Precious Miller,Male,Suburban,ZIP56112,Bachelors,"President of Student Black Council, Math Tutor",6.5,54.6,61.8,0
+CAN0847,Susan Garcia,Female,Suburban,ZIP69473,Bachelors,"Volleyball Captain, STEM Club",5.9,89.0,67.9,0
+CAN0848,Robert Miller,Male,Suburban,ZIP45509,Bachelors,"Lacrosse Team Leader, Debate Club",12.4,57.0,65.0,1
+CAN0849,Malik Johnson,Male,Suburban,ZIP50189,Bachelors,"General Member of Student Body, Volunteer",3.1,84.5,67.7,0
+CAN0850,David Williams,Female,Suburban,ZIP42951,Bachelors,"President of Student Black Council, Math Tutor",3.4,76.4,68.5,0
+CAN0851,Barbara Garcia,Male,Urban,ZIP40217,Masters,"Lacrosse Team Leader, Debate Club",3.1,60.3,68.4,0
+CAN0852,Ebony Brown,Female,Urban,ZIP25814,Masters,"Volleyball Captain, STEM Club",3.3,96.6,85.0,1
+CAN0853,James Jones,Male,Urban,ZIP35242,Masters,"General Member of Student Body, Volunteer",3.1,52.1,61.7,0
+CAN0854,Jennifer Brown,Male,Urban,ZIP51359,Masters,"General Member of Student Body, Volunteer",8.6,83.8,77.6,1
+CAN0855,Elizabeth Jones,Female,Suburban,ZIP25670,Bachelors,"Volleyball Captain, STEM Club",9.3,85.0,89.6,1
+CAN0856,Mary Jones,Male,Rural,ZIP80236,Bachelors,"General Member of Student Body, Volunteer",3.3,59.9,68.8,0
+CAN0857,Sarah Martinez,Male,Rural,ZIP34267,High School,"Lacrosse Team Leader, Debate Club",2.5,90.9,66.4,0
+CAN0858,James Jones,Female,Suburban,ZIP35105,Bachelors,"General Member of Student Body, Volunteer",6.4,66.2,72.2,0
+CAN0859,Jamal Garcia,Male,Urban,ZIP38361,Bachelors,"General Member of Student Body, Volunteer",3.3,74.3,89.2,1
+CAN0860,DeShawn Brown,Female,Urban,ZIP73464,Bachelors,"Volleyball Captain, STEM Club",6.9,73.9,77.3,0
+CAN0861,John Johnson,Male,Rural,ZIP46241,Bachelors,"Lacrosse Team Leader, Debate Club",5.6,68.0,68.6,0
+CAN0862,Elizabeth Jones,Female,Suburban,ZIP87278,Bachelors,"General Member of Student Body, Volunteer",0.5,82.2,80.8,0
+CAN0863,David Miller,Female,Suburban,ZIP78765,Bachelors,"General Member of Student Body, Volunteer",9.6,81.9,61.8,0
+CAN0864,Malik Rodriguez,Female,Suburban,ZIP88222,Masters,"President of Student Black Council, Math Tutor",10.4,43.8,83.2,0
+CAN0865,Ebony Jones,Male,Suburban,ZIP47093,Bachelors,"General Member of Student Body, Volunteer",3.2,89.6,79.9,1
+CAN0866,DeShawn Johnson,Female,Rural,ZIP23176,Bachelors,"General Member of Student Body, Volunteer",3.8,45.1,71.3,0
+CAN0867,Jamal Jones,Female,Urban,ZIP35443,Bachelors,"General Member of Student Body, Volunteer",5.9,85.5,64.9,0
+CAN0868,Patricia Martinez,Female,Suburban,ZIP48829,Bachelors,"President of Student Black Council, Math Tutor",6.0,86.9,64.4,0
+CAN0869,Charles Brown,Male,Rural,ZIP39816,High School,"Lacrosse Team Leader, Debate Club",7.0,53.6,81.4,0
+CAN0870,William Davis,Female,Urban,ZIP57301,Bachelors,"President of Student Black Council, Math Tutor",11.0,63.8,89.7,1
+CAN0871,William Davis,Female,Suburban,ZIP33519,Masters,"Volleyball Captain, STEM Club",4.5,53.4,67.4,0
+CAN0872,Tyrone Martinez,Male,Urban,ZIP49618,Masters,"Lacrosse Team Leader, Debate Club",2.6,66.8,80.5,0
+CAN0873,Patricia Miller,Male,Rural,ZIP11854,Bachelors,"Lacrosse Team Leader, Debate Club",0.9,65.4,50.0,0
+CAN0874,DeShawn Rodriguez,Female,Urban,ZIP80010,Masters,"General Member of Student Body, Volunteer",2.8,81.7,68.0,0
+CAN0875,Ebony Davis,Male,Suburban,ZIP26591,Bachelors,"Lacrosse Team Leader, Debate Club",4.9,89.7,74.6,1
+CAN0876,Trevon Rodriguez,Female,Urban,ZIP45954,Masters,"Volleyball Captain, STEM Club",10.4,90.9,64.1,1
+CAN0877,Aaliyah Brown,Female,Suburban,ZIP15965,Bachelors,"General Member of Student Body, Volunteer",3.4,61.6,63.8,0
+CAN0878,Trevon Brown,Female,Urban,ZIP17146,Masters,"Volleyball Captain, STEM Club",5.7,66.9,67.0,0
+CAN0879,Malik Martinez,Male,Urban,ZIP82529,Bachelors,"General Member of Student Body, Volunteer",5.0,44.7,78.5,0
+CAN0880,Nia Johnson,Male,Urban,ZIP48290,Masters,"Lacrosse Team Leader, Debate Club",8.6,57.9,72.8,0
+CAN0881,Susan Davis,Female,Rural,ZIP26551,High School,"Volleyball Captain, STEM Club",12.6,84.5,48.1,0
+CAN0882,Susan Garcia,Male,Urban,ZIP93606,Masters,"General Member of Student Body, Volunteer",3.4,94.2,49.6,0
+CAN0883,Robert Martinez,Female,Urban,ZIP74340,Bachelors,"Volleyball Captain, STEM Club",3.5,51.5,67.7,0
+CAN0884,Michael Smith,Male,Suburban,ZIP23446,Bachelors,"Lacrosse Team Leader, Debate Club",8.1,61.1,80.5,1
+CAN0885,Precious Rodriguez,Male,Suburban,ZIP11607,Masters,"General Member of Student Body, Volunteer",7.0,69.6,42.0,0
+CAN0886,Deja Rodriguez,Male,Rural,ZIP85243,Bachelors,"General Member of Student Body, Volunteer",10.5,74.2,69.0,1
+CAN0887,Richard Martinez,Male,Urban,ZIP47268,Masters,"General Member of Student Body, Volunteer",6.8,57.9,68.7,0
+CAN0888,Jessica Williams,Female,Suburban,ZIP71524,Bachelors,"Volleyball Captain, STEM Club",3.9,76.4,91.7,0
+CAN0889,David Garcia,Male,Urban,ZIP72746,Bachelors,"General Member of Student Body, Volunteer",6.8,62.9,70.4,0
+CAN0890,Nia Rodriguez,Male,Urban,ZIP67733,Bachelors,"General Member of Student Body, Volunteer",8.3,69.8,79.6,1
+CAN0891,Elizabeth Johnson,Male,Suburban,ZIP54657,Bachelors,"General Member of Student Body, Volunteer",7.5,78.2,76.7,1
+CAN0892,Malik Brown,Male,Suburban,ZIP34164,Masters,"General Member of Student Body, Volunteer",6.5,70.1,49.4,0
+CAN0893,DeShawn Martinez,Male,Suburban,ZIP16734,Masters,"General Member of Student Body, Volunteer",8.2,63.5,84.2,1
+CAN0894,Barbara Johnson,Female,Urban,ZIP43092,Bachelors,"Volleyball Captain, STEM Club",8.5,68.4,77.6,0
+CAN0895,Deja Rodriguez,Male,Urban,ZIP72616,Masters,"Lacrosse Team Leader, Debate Club",9.1,68.7,81.1,1
+CAN0896,Elizabeth Smith,Male,Urban,ZIP24953,Masters,"General Member of Student Body, Volunteer",6.9,64.4,100.0,1
+CAN0897,Elizabeth Williams,Male,Rural,ZIP18564,High School,"President of Student Black Council, Math Tutor",4.5,66.1,50.0,0
+CAN0898,Susan Miller,Female,Urban,ZIP62521,Masters,"General Member of Student Body, Volunteer",5.4,94.0,95.7,1
+CAN0899,Elizabeth Martinez,Male,Urban,ZIP74454,Masters,"General Member of Student Body, Volunteer",8.6,78.4,71.6,1
+CAN0900,John Rodriguez,Male,Urban,ZIP19710,Bachelors,"Lacrosse Team Leader, Debate Club",2.5,65.6,78.4,0
+CAN0901,Elizabeth Jones,Female,Suburban,ZIP85631,Masters,"General Member of Student Body, Volunteer",6.1,80.5,74.5,0
+CAN0902,Tyrone Smith,Male,Urban,ZIP92502,Bachelors,"Lacrosse Team Leader, Debate Club",3.8,65.0,69.9,0
+CAN0903,Jennifer Jones,Male,Rural,ZIP99974,High School,"Lacrosse Team Leader, Debate Club",5.1,87.6,68.2,0
+CAN0904,Precious Smith,Male,Urban,ZIP17026,Bachelors,"Lacrosse Team Leader, Debate Club",8.8,75.5,79.0,1
+CAN0905,Tyrone Brown,Female,Rural,ZIP29887,Bachelors,"General Member of Student Body, Volunteer",5.6,68.4,56.8,0
+CAN0906,Sarah Johnson,Male,Urban,ZIP29555,Masters,"Lacrosse Team Leader, Debate Club",5.1,76.7,84.0,1
+CAN0907,John Miller,Female,Suburban,ZIP83772,Bachelors,"President of Student Black Council, Math Tutor",0.9,46.4,70.0,0
+CAN0908,Patricia Johnson,Female,Rural,ZIP49824,Bachelors,"General Member of Student Body, Volunteer",7.2,53.1,61.4,0
+CAN0909,Jessica Smith,Male,Urban,ZIP21164,Masters,"Lacrosse Team Leader, Debate Club",6.9,52.1,69.6,0
+CAN0910,Ebony Johnson,Male,Rural,ZIP42530,Bachelors,"Lacrosse Team Leader, Debate Club",11.5,72.1,90.1,1
+CAN0911,Ebony Davis,Male,Urban,ZIP25525,Masters,"General Member of Student Body, Volunteer",4.1,96.0,68.6,1
+CAN0912,John Jones,Female,Rural,ZIP83147,Bachelors,"Volleyball Captain, STEM Club",5.7,100.0,79.3,0
+CAN0913,Linda Williams,Male,Suburban,ZIP64548,Bachelors,"General Member of Student Body, Volunteer",5.7,79.6,66.2,1
+CAN0914,Trevon Williams,Male,Urban,ZIP89471,Bachelors,"President of Student Black Council, Math Tutor",9.7,77.5,84.1,1
+CAN0915,Trevon Miller,Male,Urban,ZIP88135,Masters,"General Member of Student Body, Volunteer",4.7,43.0,83.2,0
+CAN0916,Patricia Miller,Female,Urban,ZIP91057,Bachelors,"Volleyball Captain, STEM Club",5.8,61.9,97.2,0
+CAN0917,Elizabeth Miller,Male,Urban,ZIP39581,Masters,"General Member of Student Body, Volunteer",6.8,58.2,72.9,0
+CAN0918,Jennifer Johnson,Female,Urban,ZIP78494,Masters,"General Member of Student Body, Volunteer",5.6,60.7,83.0,0
+CAN0919,Malik Rodriguez,Male,Urban,ZIP59856,Bachelors,"General Member of Student Body, Volunteer",3.7,67.5,76.2,0
+CAN0920,William Garcia,Male,Urban,ZIP69049,Masters,"General Member of Student Body, Volunteer",5.6,62.9,90.6,1
+CAN0921,Michael Williams,Male,Suburban,ZIP68028,Masters,"General Member of Student Body, Volunteer",8.2,40.3,66.4,0
+CAN0922,Jessica Miller,Male,Urban,ZIP48974,Bachelors,"General Member of Student Body, Volunteer",1.9,81.2,83.9,1
+CAN0923,Susan Williams,Male,Urban,ZIP87139,Masters,"Lacrosse Team Leader, Debate Club",5.4,53.9,72.7,0
+CAN0924,Tyrone Brown,Male,Suburban,ZIP66207,Masters,"Lacrosse Team Leader, Debate Club",2.9,73.6,74.2,0
+CAN0925,Precious Smith,Female,Urban,ZIP50026,Bachelors,"Volleyball Captain, STEM Club",8.6,100.0,76.1,1
+CAN0926,Trevon Smith,Female,Urban,ZIP84531,Masters,"President of Student Black Council, Math Tutor",0.4,56.2,78.0,0
+CAN0927,Thomas Davis,Female,Urban,ZIP91399,Bachelors,"General Member of Student Body, Volunteer",3.3,32.0,73.6,0
+CAN0928,Malik Rodriguez,Male,Rural,ZIP17894,Bachelors,"General Member of Student Body, Volunteer",6.1,65.7,77.6,0
+CAN0929,Linda Rodriguez,Male,Rural,ZIP89905,High School,"General Member of Student Body, Volunteer",9.7,86.5,93.9,1
+CAN0930,Jennifer Brown,Male,Urban,ZIP23006,Masters,"General Member of Student Body, Volunteer",4.8,99.4,86.8,1
+CAN0931,Charles Davis,Female,Suburban,ZIP37235,Bachelors,"Volleyball Captain, STEM Club",3.3,51.6,85.4,0
+CAN0932,Patricia Williams,Female,Suburban,ZIP91987,Masters,"General Member of Student Body, Volunteer",10.6,77.5,69.5,1
+CAN0933,Joseph Brown,Male,Suburban,ZIP37659,Bachelors,"General Member of Student Body, Volunteer",0.7,63.0,64.3,0
+CAN0934,Ebony Johnson,Male,Suburban,ZIP44687,Masters,"Lacrosse Team Leader, Debate Club",0.0,68.4,86.5,0
+CAN0935,John Miller,Male,Suburban,ZIP96563,Bachelors,"Lacrosse Team Leader, Debate Club",6.3,100.0,85.5,1
+CAN0936,Karen Smith,Male,Urban,ZIP20641,Bachelors,"Lacrosse Team Leader, Debate Club",3.5,47.5,92.7,0
+CAN0937,Charles Brown,Male,Urban,ZIP30585,Masters,"General Member of Student Body, Volunteer",1.9,73.8,67.8,0
+CAN0938,Robert Johnson,Female,Urban,ZIP41439,Bachelors,"General Member of Student Body, Volunteer",7.1,77.0,72.2,0
+CAN0939,Karen Smith,Female,Rural,ZIP32782,Bachelors,"Volleyball Captain, STEM Club",5.7,86.3,55.3,0
+CAN0940,Elizabeth Martinez,Male,Suburban,ZIP82350,Masters,"General Member of Student Body, Volunteer",3.3,71.5,70.3,0
+CAN0941,Malik Smith,Male,Rural,ZIP19838,Bachelors,"Lacrosse Team Leader, Debate Club",1.2,74.6,87.0,0
+CAN0942,Charles Smith,Female,Rural,ZIP30517,Bachelors,"Volleyball Captain, STEM Club",7.6,64.1,69.4,0
+CAN0943,Jennifer Davis,Male,Urban,ZIP10350,Bachelors,"General Member of Student Body, Volunteer",7.0,74.0,82.7,1
+CAN0944,Charles Rodriguez,Male,Suburban,ZIP63545,Bachelors,"Lacrosse Team Leader, Debate Club",4.7,64.9,72.7,0
+CAN0945,Richard Smith,Male,Suburban,ZIP69048,Bachelors,"Lacrosse Team Leader, Debate Club",10.5,79.3,78.9,1
+CAN0946,William Rodriguez,Male,Rural,ZIP87832,Bachelors,"General Member of Student Body, Volunteer",1.8,64.5,61.2,0
+CAN0947,Thomas Brown,Male,Rural,ZIP71592,High School,"Lacrosse Team Leader, Debate Club",0.4,75.7,76.0,0
+CAN0948,Precious Martinez,Female,Suburban,ZIP48175,Bachelors,"General Member of Student Body, Volunteer",2.9,69.6,39.1,0
+CAN0949,Mary Martinez,Male,Urban,ZIP14278,Bachelors,"Lacrosse Team Leader, Debate Club",4.9,86.9,72.8,1
+CAN0950,Karen Garcia,Male,Suburban,ZIP40340,Masters,"General Member of Student Body, Volunteer",5.7,69.2,55.4,0
+CAN0951,Charles Jones,Female,Urban,ZIP47762,Masters,"General Member of Student Body, Volunteer",4.3,43.4,89.5,0
+CAN0952,Deja Williams,Male,Suburban,ZIP47056,Bachelors,"General Member of Student Body, Volunteer",6.1,88.9,84.3,1
+CAN0953,Malik Rodriguez,Female,Rural,ZIP69510,High School,"General Member of Student Body, Volunteer",1.2,56.4,80.6,0
+CAN0954,Charles Miller,Female,Urban,ZIP19329,Masters,"Volleyball Captain, STEM Club",9.3,60.2,93.3,0
+CAN0955,Thomas Jones,Male,Suburban,ZIP40595,Bachelors,"General Member of Student Body, Volunteer",4.8,61.1,63.6,0
+CAN0956,John Rodriguez,Female,Urban,ZIP44675,Bachelors,"Volleyball Captain, STEM Club",8.4,90.6,96.0,1
+CAN0957,Sarah Williams,Male,Urban,ZIP91927,Masters,"Lacrosse Team Leader, Debate Club",6.0,38.0,86.2,0
+CAN0958,Jamal Miller,Female,Urban,ZIP87304,Masters,"General Member of Student Body, Volunteer",6.4,100.0,72.2,1
+CAN0959,Jessica Davis,Male,Suburban,ZIP96662,Masters,"Lacrosse Team Leader, Debate Club",6.7,85.8,88.6,1
+CAN0960,John Garcia,Female,Rural,ZIP35928,High School,"President of Student Black Council, Math Tutor",6.3,73.3,61.7,0
+CAN0961,Jamal Miller,Female,Rural,ZIP65723,Bachelors,"Volleyball Captain, STEM Club",6.9,69.2,65.1,0
+CAN0962,Aaliyah Rodriguez,Male,Urban,ZIP25043,Masters,"General Member of Student Body, Volunteer",9.0,74.3,67.7,1
+CAN0963,Mary Miller,Male,Rural,ZIP81376,Bachelors,"General Member of Student Body, Volunteer",5.6,77.8,68.7,0
+CAN0964,Linda Williams,Female,Suburban,ZIP39466,Masters,"General Member of Student Body, Volunteer",7.1,79.7,62.3,0
+CAN0965,Thomas Miller,Female,Urban,ZIP94886,Bachelors,"Volleyball Captain, STEM Club",4.7,78.3,89.7,0
+CAN0966,David Rodriguez,Male,Urban,ZIP29528,Bachelors,"General Member of Student Body, Volunteer",9.3,71.3,71.9,1
+CAN0967,Barbara Brown,Female,Urban,ZIP44816,Masters,"President of Student Black Council, Math Tutor",3.0,67.0,79.2,0
+CAN0968,Nia Brown,Male,Rural,ZIP28643,Bachelors,"Lacrosse Team Leader, Debate Club",10.4,67.7,68.2,0
+CAN0969,Thomas Williams,Male,Suburban,ZIP19359,Bachelors,"General Member of Student Body, Volunteer",4.9,67.1,53.2,0
+CAN0970,Aaliyah Davis,Male,Suburban,ZIP17816,Bachelors,"General Member of Student Body, Volunteer",0.7,87.0,78.2,0
+CAN0971,Ebony Smith,Male,Urban,ZIP31747,Masters,"General Member of Student Body, Volunteer",5.4,78.9,52.1,0
+CAN0972,Jessica Miller,Female,Suburban,ZIP50319,Bachelors,"Volleyball Captain, STEM Club",3.0,25.9,74.2,0
+CAN0973,Linda Rodriguez,Male,Urban,ZIP87993,Masters,"General Member of Student Body, Volunteer",7.5,79.8,58.6,1
+CAN0974,Susan Williams,Female,Urban,ZIP84607,Masters,"Volleyball Captain, STEM Club",3.0,72.9,98.8,0
+CAN0975,Jennifer Brown,Male,Suburban,ZIP47828,Bachelors,"Lacrosse Team Leader, Debate Club",3.7,69.7,85.9,0
+CAN0976,Joseph Brown,Male,Urban,ZIP67560,Masters,"Lacrosse Team Leader, Debate Club",0.0,64.2,76.3,0
+CAN0977,Mary Johnson,Male,Rural,ZIP26299,Bachelors,"General Member of Student Body, Volunteer",3.6,86.9,90.2,1
+CAN0978,Ebony Davis,Male,Urban,ZIP71433,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,84.2,64.8,0
+CAN0979,Nia Garcia,Male,Suburban,ZIP49857,Bachelors,"Lacrosse Team Leader, Debate Club",0.2,58.4,81.5,0
+CAN0980,Robert Rodriguez,Male,Urban,ZIP62757,Bachelors,"Lacrosse Team Leader, Debate Club",7.3,76.1,77.4,1
+CAN0981,Tyrone Brown,Male,Suburban,ZIP45683,Bachelors,"General Member of Student Body, Volunteer",7.4,55.4,78.2,0
+CAN0982,John Jones,Male,Urban,ZIP75597,Masters,"Lacrosse Team Leader, Debate Club",6.3,49.3,90.3,0
+CAN0983,Jennifer Martinez,Male,Urban,ZIP80776,Masters,"Lacrosse Team Leader, Debate Club",2.1,60.6,83.8,0
+CAN0984,Karen Smith,Male,Rural,ZIP74722,Bachelors,"General Member of Student Body, Volunteer",4.9,82.9,78.5,0
+CAN0985,Nia Johnson,Female,Urban,ZIP67377,Masters,"President of Student Black Council, Math Tutor",5.0,84.3,55.1,0
+CAN0986,Richard Martinez,Female,Rural,ZIP20543,Bachelors,"President of Student Black Council, Math Tutor",1.5,77.7,63.5,0
+CAN0987,Tyrone Rodriguez,Male,Rural,ZIP88385,High School,"Lacrosse Team Leader, Debate Club",9.5,80.9,73.5,1
+CAN0988,Richard Davis,Male,Urban,ZIP15224,Bachelors,"Lacrosse Team Leader, Debate Club",7.6,77.7,76.1,1
+CAN0989,Richard Garcia,Male,Urban,ZIP66626,Masters,"General Member of Student Body, Volunteer",4.3,60.4,61.4,0
+CAN0990,Thomas Smith,Female,Suburban,ZIP52247,Masters,"Volleyball Captain, STEM Club",5.1,76.5,100.0,1
+CAN0991,Richard Brown,Male,Rural,ZIP89129,Bachelors,"General Member of Student Body, Volunteer",5.6,82.0,93.2,1
+CAN0992,Tyrone Johnson,Male,Rural,ZIP42816,Bachelors,"Lacrosse Team Leader, Debate Club",0.0,81.3,82.2,0
+CAN0993,Tyrone Davis,Male,Suburban,ZIP13390,Masters,"General Member of Student Body, Volunteer",4.3,87.8,75.9,1
+CAN0994,Ebony Brown,Male,Suburban,ZIP21970,Bachelors,"General Member of Student Body, Volunteer",3.0,80.6,72.5,0
+CAN0995,DeShawn Martinez,Male,Urban,ZIP40005,Bachelors,"Lacrosse Team Leader, Debate Club",2.0,75.3,63.6,0
+CAN0996,DeShawn Brown,Female,Rural,ZIP98381,High School,"Volleyball Captain, STEM Club",4.2,86.1,75.9,0
+CAN0997,Jennifer Brown,Male,Rural,ZIP85392,Bachelors,"General Member of Student Body, Volunteer",10.4,69.6,78.1,1
+CAN0998,Jessica Garcia,Female,Urban,ZIP86955,Bachelors,"General Member of Student Body, Volunteer",6.9,56.8,60.1,0
+CAN0999,Trevon Jones,Male,Urban,ZIP12719,Masters,"General Member of Student Body, Volunteer",3.3,67.6,79.0,0
+CAN1000,Jennifer Davis,Male,Urban,ZIP98117,Masters,"General Member of Student Body, Volunteer",6.7,58.8,73.1,0

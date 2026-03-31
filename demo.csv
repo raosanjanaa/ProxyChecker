@@ -1,0 +1,21 @@
+Candidate_ID,Name,Gender,Age,Location,Education_Level,Years_Experience,Skill_Score,Technical_Certifications,Previous_Salary_Bracket,Selected
+C001,John Doe,Male,28,Urban,Masters,5,88,3,High,1
+C002,Jane Smith,Female,32,Rural,Bachelors,7,92,2,Medium,0
+C003,Alex Chen,Non-Binary,24,Urban,Bachelors,2,75,1,Low,1
+C004,Sarah Miller,Female,45,Suburban,PhD,15,95,5,High,0
+C005,Michael Brown,Male,22,Urban,Bachelors,1,70,0,Low,1
+C006,Priya Sharma,Female,29,Rural,Masters,6,89,3,Medium,0
+C007,David Wilson,Male,35,Urban,Bachelors,10,82,2,High,1
+C008,Linda Taylor,Female,38,Suburban,Masters,12,91,4,High,0
+C009,James Moore,Male,26,Urban,Bachelors,4,77,1,Medium,1
+C110,Robert Hall,Male,50,Rural,PhD,20,98,6,High,0
+C111,Emily Young,Female,27,Urban,Masters,4,85,2,Medium,1
+C112,Kevin White,Male,31,Suburban,Bachelors,8,80,2,High,1
+C113,Maria Garcia,Female,33,Rural,Masters,9,88,3,Medium,0
+C114,William Martin,Male,24,Urban,Bachelors,2,72,1,Low,1
+C115,Anna Lee,Female,29,Suburban,Bachelors,5,84,2,Medium,0
+C116,Chris Evans,Male,42,Urban,Masters,16,93,4,High,1
+C117,Jessica King,Female,30,Rural,Bachelors,6,81,1,Medium,0
+C118,Thomas Wright,Male,25,Urban,Bachelors,3,76,1,Low,1
+C119,Laura Scott,Female,40,Suburban,PhD,14,94,5,High,0
+C120,Brian Green,Male,27,Urban,Masters,4,83,2,Medium,1
